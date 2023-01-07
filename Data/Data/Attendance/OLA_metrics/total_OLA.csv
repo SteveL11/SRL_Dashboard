@@ -1,0 +1,2323 @@
+Date,StatusKey,Code,StatusKey
+2022-10-01,acw,ATL Ops Sup 5,65
+2022-10-01,acw,ATL Ops Sup 6,41
+2022-10-01,acw,ATL Ops Sup 7,100
+2022-10-01,at lunch,ATL Ops Sup 5,13
+2022-10-01,at lunch,ATL Ops Sup 6,3
+2022-10-01,at lunch,ATL Ops Sup 7,12
+2022-10-01,escalation wait,ATL Ops Sup 5,5
+2022-10-01,escalation wait,ATL Ops Sup 6,5
+2022-10-01,escalation wait,ATL Ops Sup 7,4
+2022-10-01,follow up,ATL Ops Sup 5,74
+2022-10-01,follow up,ATL Ops Sup 6,42
+2022-10-01,follow up,ATL Ops Sup 7,86
+2022-10-01,on call,ATL Ops Sup 5,95
+2022-10-01,on call,ATL Ops Sup 6,50
+2022-10-01,on call,ATL Ops Sup 7,100
+2022-10-01,personal break,ATL Ops Sup 5,2
+2022-10-01,personal break,ATL Ops Sup 6,2
+2022-10-01,personal break,ATL Ops Sup 7,6
+2022-10-01,scheduled break,ATL Ops Sup 5,23
+2022-10-01,scheduled break,ATL Ops Sup 6,11
+2022-10-01,scheduled break,ATL Ops Sup 7,16
+2022-10-01,special assignment,ATL Ops Sup 5,4
+2022-10-01,special assignment,ATL Ops Sup 6,2
+2022-10-01,tc issues,ATL Ops Sup 5,14
+2022-10-01,tc issues,ATL Ops Sup 6,16
+2022-10-01,tc issues,ATL Ops Sup 7,2
+2022-10-02,acw,ATL Ops Sup 5,24
+2022-10-02,acw,ATL Ops Sup 6,22
+2022-10-02,acw,ATL Ops Sup 7,51
+2022-10-02,at lunch,ATL Ops Sup 5,12
+2022-10-02,at lunch,ATL Ops Sup 6,3
+2022-10-02,at lunch,ATL Ops Sup 7,7
+2022-10-02,escalation wait,ATL Ops Sup 5,1
+2022-10-02,escalation wait,ATL Ops Sup 7,2
+2022-10-02,follow up,ATL Ops Sup 5,39
+2022-10-02,follow up,ATL Ops Sup 6,15
+2022-10-02,follow up,ATL Ops Sup 7,44
+2022-10-02,in a meeting,ATL Ops Sup 7,1
+2022-10-02,on call,ATL Ops Sup 5,39
+2022-10-02,on call,ATL Ops Sup 6,22
+2022-10-02,on call,ATL Ops Sup 7,59
+2022-10-02,personal break,ATL Ops Sup 5,3
+2022-10-02,personal break,ATL Ops Sup 6,1
+2022-10-02,personal break,ATL Ops Sup 7,3
+2022-10-02,scheduled break,ATL Ops Sup 5,16
+2022-10-02,scheduled break,ATL Ops Sup 6,9
+2022-10-02,scheduled break,ATL Ops Sup 7,17
+2022-10-02,tc issues,ATL Ops Sup 5,1
+2022-10-03,acw,ATL Ops Sup 5,174
+2022-10-03,acw,ATL Ops Sup 6,252
+2022-10-03,acw,ATL Ops Sup 7,173
+2022-10-03,at lunch,ATL Ops Sup 5,14
+2022-10-03,at lunch,ATL Ops Sup 6,10
+2022-10-03,at lunch,ATL Ops Sup 7,14
+2022-10-03,escalation wait,ATL Ops Sup 5,19
+2022-10-03,escalation wait,ATL Ops Sup 6,12
+2022-10-03,escalation wait,ATL Ops Sup 7,7
+2022-10-03,follow up,ATL Ops Sup 5,141
+2022-10-03,follow up,ATL Ops Sup 6,187
+2022-10-03,follow up,ATL Ops Sup 7,125
+2022-10-03,in a meeting,ATL Ops Sup 5,3
+2022-10-03,in a meeting,ATL Ops Sup 7,2
+2022-10-03,on call,ATL Ops Sup 5,209
+2022-10-03,on call,ATL Ops Sup 6,254
+2022-10-03,on call,ATL Ops Sup 7,186
+2022-10-03,personal break,ATL Ops Sup 5,5
+2022-10-03,personal break,ATL Ops Sup 6,5
+2022-10-03,personal break,ATL Ops Sup 7,7
+2022-10-03,scheduled break,ATL Ops Sup 5,30
+2022-10-03,scheduled break,ATL Ops Sup 6,29
+2022-10-03,scheduled break,ATL Ops Sup 7,29
+2022-10-03,special assignment,ATL Ops Sup 5,6
+2022-10-03,special assignment,ATL Ops Sup 6,4
+2022-10-03,system issues,ATL Ops Sup 5,1
+2022-10-03,system issues,ATL Ops Sup 7,1
+2022-10-03,tc issues,ATL Ops Sup 5,15
+2022-10-03,tc issues,ATL Ops Sup 6,19
+2022-10-03,tc issues,ATL Ops Sup 7,14
+2022-10-04,acw,ATL Ops Sup 5,150
+2022-10-04,acw,ATL Ops Sup 6,282
+2022-10-04,acw,ATL Ops Sup 7,281
+2022-10-04,at a training session,ATL Ops Sup 5,2
+2022-10-04,at lunch,ATL Ops Sup 5,15
+2022-10-04,at lunch,ATL Ops Sup 6,16
+2022-10-04,at lunch,ATL Ops Sup 7,20
+2022-10-04,escalation wait,ATL Ops Sup 5,13
+2022-10-04,escalation wait,ATL Ops Sup 6,13
+2022-10-04,escalation wait,ATL Ops Sup 7,13
+2022-10-04,follow up,ATL Ops Sup 5,135
+2022-10-04,follow up,ATL Ops Sup 6,208
+2022-10-04,follow up,ATL Ops Sup 7,186
+2022-10-04,in a meeting,ATL Ops Sup 5,2
+2022-10-04,in a meeting,ATL Ops Sup 7,1
+2022-10-04,on call,ATL Ops Sup 5,183
+2022-10-04,on call,ATL Ops Sup 6,282
+2022-10-04,on call,ATL Ops Sup 7,284
+2022-10-04,personal break,ATL Ops Sup 5,6
+2022-10-04,personal break,ATL Ops Sup 6,7
+2022-10-04,personal break,ATL Ops Sup 7,14
+2022-10-04,scheduled break,ATL Ops Sup 5,27
+2022-10-04,scheduled break,ATL Ops Sup 6,29
+2022-10-04,scheduled break,ATL Ops Sup 7,38
+2022-10-04,special assignment,ATL Ops Sup 5,2
+2022-10-04,special assignment,ATL Ops Sup 6,1
+2022-10-04,system issues,ATL Ops Sup 5,5
+2022-10-04,system issues,ATL Ops Sup 7,4
+2022-10-04,tc issues,ATL Ops Sup 5,5
+2022-10-04,tc issues,ATL Ops Sup 6,3
+2022-10-04,tc issues,ATL Ops Sup 7,5
+2022-10-05,acw,ATL Ops Sup 5,211
+2022-10-05,acw,ATL Ops Sup 6,232
+2022-10-05,acw,ATL Ops Sup 7,220
+2022-10-05,at a training session,ATL Ops Sup 7,2
+2022-10-05,at lunch,ATL Ops Sup 5,21
+2022-10-05,at lunch,ATL Ops Sup 6,16
+2022-10-05,at lunch,ATL Ops Sup 7,19
+2022-10-05,coaching,ATL Ops Sup 5,1
+2022-10-05,coaching,ATL Ops Sup 7,1
+2022-10-05,escalation wait,ATL Ops Sup 5,16
+2022-10-05,escalation wait,ATL Ops Sup 6,5
+2022-10-05,escalation wait,ATL Ops Sup 7,7
+2022-10-05,follow up,ATL Ops Sup 5,198
+2022-10-05,follow up,ATL Ops Sup 6,172
+2022-10-05,follow up,ATL Ops Sup 7,156
+2022-10-05,in a meeting,ATL Ops Sup 5,2
+2022-10-05,in a meeting,ATL Ops Sup 6,3
+2022-10-05,in a meeting,ATL Ops Sup 7,1
+2022-10-05,on call,ATL Ops Sup 5,257
+2022-10-05,on call,ATL Ops Sup 6,223
+2022-10-05,on call,ATL Ops Sup 7,240
+2022-10-05,personal break,ATL Ops Sup 5,9
+2022-10-05,personal break,ATL Ops Sup 6,5
+2022-10-05,personal break,ATL Ops Sup 7,8
+2022-10-05,scheduled break,ATL Ops Sup 5,35
+2022-10-05,scheduled break,ATL Ops Sup 6,25
+2022-10-05,scheduled break,ATL Ops Sup 7,34
+2022-10-05,special assignment,ATL Ops Sup 5,7
+2022-10-05,system issues,ATL Ops Sup 5,1
+2022-10-05,system issues,ATL Ops Sup 7,3
+2022-10-05,tc issues,ATL Ops Sup 5,20
+2022-10-05,tc issues,ATL Ops Sup 6,17
+2022-10-05,tc issues,ATL Ops Sup 7,19
+2022-10-06,acw,ATL Ops Sup 5,202
+2022-10-06,acw,ATL Ops Sup 6,243
+2022-10-06,acw,ATL Ops Sup 7,256
+2022-10-06,at a training session,ATL Ops Sup 5,1
+2022-10-06,at lunch,ATL Ops Sup 5,21
+2022-10-06,at lunch,ATL Ops Sup 6,15
+2022-10-06,at lunch,ATL Ops Sup 7,18
+2022-10-06,escalation wait,ATL Ops Sup 5,18
+2022-10-06,escalation wait,ATL Ops Sup 6,13
+2022-10-06,escalation wait,ATL Ops Sup 7,5
+2022-10-06,follow up,ATL Ops Sup 5,193
+2022-10-06,follow up,ATL Ops Sup 6,166
+2022-10-06,follow up,ATL Ops Sup 7,167
+2022-10-06,in a meeting,ATL Ops Sup 5,2
+2022-10-06,in a meeting,ATL Ops Sup 6,4
+2022-10-06,in a meeting,ATL Ops Sup 7,1
+2022-10-06,on call,ATL Ops Sup 5,253
+2022-10-06,on call,ATL Ops Sup 6,235
+2022-10-06,on call,ATL Ops Sup 7,277
+2022-10-06,personal break,ATL Ops Sup 5,10
+2022-10-06,personal break,ATL Ops Sup 6,12
+2022-10-06,personal break,ATL Ops Sup 7,14
+2022-10-06,scheduled break,ATL Ops Sup 5,38
+2022-10-06,scheduled break,ATL Ops Sup 6,29
+2022-10-06,scheduled break,ATL Ops Sup 7,37
+2022-10-06,special assignment,ATL Ops Sup 5,4
+2022-10-06,special assignment,ATL Ops Sup 6,4
+2022-10-06,tc issues,ATL Ops Sup 5,17
+2022-10-06,tc issues,ATL Ops Sup 6,22
+2022-10-06,tc issues,ATL Ops Sup 7,19
+2022-10-07,acw,ATL Ops Sup 5,184
+2022-10-07,acw,ATL Ops Sup 6,166
+2022-10-07,acw,ATL Ops Sup 7,279
+2022-10-07,at a training session,ATL Ops Sup 6,1
+2022-10-07,at lunch,ATL Ops Sup 5,14
+2022-10-07,at lunch,ATL Ops Sup 6,8
+2022-10-07,at lunch,ATL Ops Sup 7,18
+2022-10-07,coaching,ATL Ops Sup 7,1
+2022-10-07,escalation wait,ATL Ops Sup 5,9
+2022-10-07,escalation wait,ATL Ops Sup 6,5
+2022-10-07,escalation wait,ATL Ops Sup 7,14
+2022-10-07,follow up,ATL Ops Sup 5,173
+2022-10-07,follow up,ATL Ops Sup 6,120
+2022-10-07,follow up,ATL Ops Sup 7,202
+2022-10-07,in a meeting,ATL Ops Sup 7,5
+2022-10-07,on call,ATL Ops Sup 5,228
+2022-10-07,on call,ATL Ops Sup 6,171
+2022-10-07,on call,ATL Ops Sup 7,302
+2022-10-07,personal break,ATL Ops Sup 5,7
+2022-10-07,personal break,ATL Ops Sup 6,5
+2022-10-07,personal break,ATL Ops Sup 7,10
+2022-10-07,scheduled break,ATL Ops Sup 5,26
+2022-10-07,scheduled break,ATL Ops Sup 6,15
+2022-10-07,scheduled break,ATL Ops Sup 7,35
+2022-10-07,special assignment,ATL Ops Sup 5,6
+2022-10-07,tc issues,ATL Ops Sup 5,2
+2022-10-07,tc issues,ATL Ops Sup 6,5
+2022-10-07,tc issues,ATL Ops Sup 7,7
+2022-10-08,acw,ATL Ops Sup 5,79
+2022-10-08,acw,ATL Ops Sup 6,22
+2022-10-08,acw,ATL Ops Sup 7,112
+2022-10-08,at lunch,ATL Ops Sup 5,14
+2022-10-08,at lunch,ATL Ops Sup 6,2
+2022-10-08,at lunch,ATL Ops Sup 7,12
+2022-10-08,escalation wait,ATL Ops Sup 5,6
+2022-10-08,escalation wait,ATL Ops Sup 7,6
+2022-10-08,follow up,ATL Ops Sup 5,94
+2022-10-08,follow up,ATL Ops Sup 6,9
+2022-10-08,follow up,ATL Ops Sup 7,82
+2022-10-08,on call,ATL Ops Sup 5,114
+2022-10-08,on call,ATL Ops Sup 6,25
+2022-10-08,on call,ATL Ops Sup 7,110
+2022-10-08,personal break,ATL Ops Sup 5,1
+2022-10-08,personal break,ATL Ops Sup 6,4
+2022-10-08,personal break,ATL Ops Sup 7,5
+2022-10-08,scheduled break,ATL Ops Sup 5,18
+2022-10-08,scheduled break,ATL Ops Sup 6,4
+2022-10-08,scheduled break,ATL Ops Sup 7,19
+2022-10-08,special assignment,ATL Ops Sup 5,6
+2022-10-08,special assignment,ATL Ops Sup 6,2
+2022-10-08,system issues,ATL Ops Sup 5,1
+2022-10-08,tc issues,ATL Ops Sup 5,6
+2022-10-08,tc issues,ATL Ops Sup 6,5
+2022-10-08,tc issues,ATL Ops Sup 7,5
+2022-10-09,acw,ATL Ops Sup 5,39
+2022-10-09,acw,ATL Ops Sup 6,12
+2022-10-09,acw,ATL Ops Sup 7,63
+2022-10-09,at lunch,ATL Ops Sup 5,11
+2022-10-09,at lunch,ATL Ops Sup 6,2
+2022-10-09,at lunch,ATL Ops Sup 7,4
+2022-10-09,escalation wait,ATL Ops Sup 5,2
+2022-10-09,follow up,ATL Ops Sup 5,47
+2022-10-09,follow up,ATL Ops Sup 6,3
+2022-10-09,follow up,ATL Ops Sup 7,41
+2022-10-09,on call,ATL Ops Sup 5,53
+2022-10-09,on call,ATL Ops Sup 6,11
+2022-10-09,on call,ATL Ops Sup 7,53
+2022-10-09,personal break,ATL Ops Sup 6,2
+2022-10-09,personal break,ATL Ops Sup 7,4
+2022-10-09,scheduled break,ATL Ops Sup 5,17
+2022-10-09,scheduled break,ATL Ops Sup 6,3
+2022-10-09,scheduled break,ATL Ops Sup 7,12
+2022-10-09,tc issues,ATL Ops Sup 5,4
+2022-10-10,acw,ATL Ops Sup 5,151
+2022-10-10,acw,ATL Ops Sup 6,271
+2022-10-10,acw,ATL Ops Sup 7,218
+2022-10-10,at a training session,ATL Ops Sup 5,1
+2022-10-10,at a training session,ATL Ops Sup 6,1
+2022-10-10,at lunch,ATL Ops Sup 5,12
+2022-10-10,at lunch,ATL Ops Sup 6,16
+2022-10-10,at lunch,ATL Ops Sup 7,17
+2022-10-10,escalation wait,ATL Ops Sup 5,10
+2022-10-10,escalation wait,ATL Ops Sup 6,14
+2022-10-10,escalation wait,ATL Ops Sup 7,7
+2022-10-10,follow up,ATL Ops Sup 5,120
+2022-10-10,follow up,ATL Ops Sup 6,200
+2022-10-10,follow up,ATL Ops Sup 7,141
+2022-10-10,in a meeting,ATL Ops Sup 5,2
+2022-10-10,in a meeting,ATL Ops Sup 6,3
+2022-10-10,on call,ATL Ops Sup 5,173
+2022-10-10,on call,ATL Ops Sup 6,255
+2022-10-10,on call,ATL Ops Sup 7,225
+2022-10-10,personal break,ATL Ops Sup 5,2
+2022-10-10,personal break,ATL Ops Sup 6,8
+2022-10-10,personal break,ATL Ops Sup 7,8
+2022-10-10,scheduled break,ATL Ops Sup 5,21
+2022-10-10,scheduled break,ATL Ops Sup 6,25
+2022-10-10,scheduled break,ATL Ops Sup 7,28
+2022-10-10,special assignment,ATL Ops Sup 5,8
+2022-10-10,special assignment,ATL Ops Sup 6,3
+2022-10-10,system issues,ATL Ops Sup 5,1
+2022-10-10,tc issues,ATL Ops Sup 5,14
+2022-10-10,tc issues,ATL Ops Sup 6,24
+2022-10-10,tc issues,ATL Ops Sup 7,6
+2022-10-11,acw,ATL Ops Sup 5,176
+2022-10-11,acw,ATL Ops Sup 6,305
+2022-10-11,acw,ATL Ops Sup 7,261
+2022-10-11,at a training session,ATL Ops Sup 6,2
+2022-10-11,at a training session,ATL Ops Sup 7,1
+2022-10-11,at lunch,ATL Ops Sup 5,16
+2022-10-11,at lunch,ATL Ops Sup 6,14
+2022-10-11,at lunch,ATL Ops Sup 7,20
+2022-10-11,coaching,ATL Ops Sup 5,1
+2022-10-11,escalation wait,ATL Ops Sup 5,12
+2022-10-11,escalation wait,ATL Ops Sup 6,9
+2022-10-11,escalation wait,ATL Ops Sup 7,11
+2022-10-11,follow up,ATL Ops Sup 5,164
+2022-10-11,follow up,ATL Ops Sup 6,219
+2022-10-11,follow up,ATL Ops Sup 7,189
+2022-10-11,in a meeting,ATL Ops Sup 5,1
+2022-10-11,in a meeting,ATL Ops Sup 6,2
+2022-10-11,in a meeting,ATL Ops Sup 7,2
+2022-10-11,on call,ATL Ops Sup 5,210
+2022-10-11,on call,ATL Ops Sup 6,310
+2022-10-11,on call,ATL Ops Sup 7,278
+2022-10-11,personal break,ATL Ops Sup 5,3
+2022-10-11,personal break,ATL Ops Sup 6,10
+2022-10-11,personal break,ATL Ops Sup 7,9
+2022-10-11,scheduled break,ATL Ops Sup 5,26
+2022-10-11,scheduled break,ATL Ops Sup 6,29
+2022-10-11,scheduled break,ATL Ops Sup 7,31
+2022-10-11,special assignment,ATL Ops Sup 5,3
+2022-10-11,special assignment,ATL Ops Sup 6,1
+2022-10-11,special assignment,ATL Ops Sup 7,1
+2022-10-11,system issues,ATL Ops Sup 5,1
+2022-10-11,system issues,ATL Ops Sup 7,1
+2022-10-11,tc issues,ATL Ops Sup 5,7
+2022-10-11,tc issues,ATL Ops Sup 7,6
+2022-10-12,acw,ATL Ops Sup 5,216
+2022-10-12,acw,ATL Ops Sup 6,235
+2022-10-12,acw,ATL Ops Sup 7,268
+2022-10-12,at a training session,ATL Ops Sup 5,2
+2022-10-12,at a training session,ATL Ops Sup 6,2
+2022-10-12,at a training session,ATL Ops Sup 7,2
+2022-10-12,at lunch,ATL Ops Sup 5,20
+2022-10-12,at lunch,ATL Ops Sup 6,12
+2022-10-12,at lunch,ATL Ops Sup 7,15
+2022-10-12,escalation wait,ATL Ops Sup 5,15
+2022-10-12,escalation wait,ATL Ops Sup 6,17
+2022-10-12,escalation wait,ATL Ops Sup 7,15
+2022-10-12,follow up,ATL Ops Sup 5,176
+2022-10-12,follow up,ATL Ops Sup 6,161
+2022-10-12,follow up,ATL Ops Sup 7,188
+2022-10-12,in a meeting,ATL Ops Sup 5,1
+2022-10-12,in a meeting,ATL Ops Sup 7,4
+2022-10-12,on call,ATL Ops Sup 5,264
+2022-10-12,on call,ATL Ops Sup 6,228
+2022-10-12,on call,ATL Ops Sup 7,289
+2022-10-12,personal break,ATL Ops Sup 5,7
+2022-10-12,personal break,ATL Ops Sup 6,6
+2022-10-12,personal break,ATL Ops Sup 7,7
+2022-10-12,scheduled break,ATL Ops Sup 5,35
+2022-10-12,scheduled break,ATL Ops Sup 6,27
+2022-10-12,scheduled break,ATL Ops Sup 7,32
+2022-10-12,special assignment,ATL Ops Sup 5,10
+2022-10-12,special assignment,ATL Ops Sup 6,3
+2022-10-12,tc issues,ATL Ops Sup 5,43
+2022-10-12,tc issues,ATL Ops Sup 6,1
+2022-10-12,tc issues,ATL Ops Sup 7,21
+2022-10-13,acw,ATL Ops Sup 5,199
+2022-10-13,acw,ATL Ops Sup 6,228
+2022-10-13,acw,ATL Ops Sup 7,261
+2022-10-13,at a training session,ATL Ops Sup 5,7
+2022-10-13,at a training session,ATL Ops Sup 7,6
+2022-10-13,at lunch,ATL Ops Sup 5,21
+2022-10-13,at lunch,ATL Ops Sup 6,13
+2022-10-13,at lunch,ATL Ops Sup 7,16
+2022-10-13,coaching,ATL Ops Sup 7,2
+2022-10-13,escalation wait,ATL Ops Sup 5,16
+2022-10-13,escalation wait,ATL Ops Sup 6,12
+2022-10-13,escalation wait,ATL Ops Sup 7,4
+2022-10-13,follow up,ATL Ops Sup 5,179
+2022-10-13,follow up,ATL Ops Sup 6,151
+2022-10-13,follow up,ATL Ops Sup 7,164
+2022-10-13,in a meeting,ATL Ops Sup 5,2
+2022-10-13,in a meeting,ATL Ops Sup 6,2
+2022-10-13,in a meeting,ATL Ops Sup 7,4
+2022-10-13,on call,ATL Ops Sup 5,246
+2022-10-13,on call,ATL Ops Sup 6,227
+2022-10-13,on call,ATL Ops Sup 7,256
+2022-10-13,personal break,ATL Ops Sup 5,10
+2022-10-13,personal break,ATL Ops Sup 6,5
+2022-10-13,personal break,ATL Ops Sup 7,14
+2022-10-13,scheduled break,ATL Ops Sup 5,36
+2022-10-13,scheduled break,ATL Ops Sup 6,28
+2022-10-13,scheduled break,ATL Ops Sup 7,36
+2022-10-13,special assignment,ATL Ops Sup 5,6
+2022-10-13,special assignment,ATL Ops Sup 6,3
+2022-10-13,tc issues,ATL Ops Sup 5,18
+2022-10-13,tc issues,ATL Ops Sup 6,4
+2022-10-13,tc issues,ATL Ops Sup 7,5
+2022-10-14,acw,ATL Ops Sup 5,172
+2022-10-14,acw,ATL Ops Sup 6,199
+2022-10-14,acw,ATL Ops Sup 7,287
+2022-10-14,at a training session,ATL Ops Sup 7,1
+2022-10-14,at lunch,ATL Ops Sup 5,16
+2022-10-14,at lunch,ATL Ops Sup 6,8
+2022-10-14,at lunch,ATL Ops Sup 7,17
+2022-10-14,escalation wait,ATL Ops Sup 5,21
+2022-10-14,escalation wait,ATL Ops Sup 6,8
+2022-10-14,escalation wait,ATL Ops Sup 7,14
+2022-10-14,follow up,ATL Ops Sup 5,180
+2022-10-14,follow up,ATL Ops Sup 6,147
+2022-10-14,follow up,ATL Ops Sup 7,213
+2022-10-14,in a meeting,ATL Ops Sup 7,1
+2022-10-14,on call,ATL Ops Sup 5,234
+2022-10-14,on call,ATL Ops Sup 6,199
+2022-10-14,on call,ATL Ops Sup 7,293
+2022-10-14,personal break,ATL Ops Sup 5,6
+2022-10-14,personal break,ATL Ops Sup 6,5
+2022-10-14,personal break,ATL Ops Sup 7,14
+2022-10-14,scheduled break,ATL Ops Sup 5,28
+2022-10-14,scheduled break,ATL Ops Sup 6,23
+2022-10-14,scheduled break,ATL Ops Sup 7,36
+2022-10-14,special assignment,ATL Ops Sup 5,7
+2022-10-14,special assignment,ATL Ops Sup 6,1
+2022-10-14,special assignment,ATL Ops Sup 7,16
+2022-10-14,system issues,ATL Ops Sup 5,6
+2022-10-14,tc issues,ATL Ops Sup 5,6
+2022-10-14,tc issues,ATL Ops Sup 6,1
+2022-10-14,tc issues,ATL Ops Sup 7,10
+2022-10-15,acw,ATL Ops Sup 5,55
+2022-10-15,acw,ATL Ops Sup 6,18
+2022-10-15,acw,ATL Ops Sup 7,140
+2022-10-15,at lunch,ATL Ops Sup 5,12
+2022-10-15,at lunch,ATL Ops Sup 6,2
+2022-10-15,at lunch,ATL Ops Sup 7,9
+2022-10-15,escalation wait,ATL Ops Sup 5,2
+2022-10-15,escalation wait,ATL Ops Sup 6,2
+2022-10-15,escalation wait,ATL Ops Sup 7,4
+2022-10-15,follow up,ATL Ops Sup 5,54
+2022-10-15,follow up,ATL Ops Sup 6,10
+2022-10-15,follow up,ATL Ops Sup 7,76
+2022-10-15,on call,ATL Ops Sup 5,70
+2022-10-15,on call,ATL Ops Sup 6,23
+2022-10-15,on call,ATL Ops Sup 7,104
+2022-10-15,personal break,ATL Ops Sup 5,3
+2022-10-15,personal break,ATL Ops Sup 6,3
+2022-10-15,personal break,ATL Ops Sup 7,7
+2022-10-15,scheduled break,ATL Ops Sup 5,18
+2022-10-15,scheduled break,ATL Ops Sup 6,4
+2022-10-15,scheduled break,ATL Ops Sup 7,17
+2022-10-15,special assignment,ATL Ops Sup 5,8
+2022-10-15,tc issues,ATL Ops Sup 5,11
+2022-10-15,tc issues,ATL Ops Sup 6,4
+2022-10-16,acw,ATL Ops Sup 5,40
+2022-10-16,acw,ATL Ops Sup 6,33
+2022-10-16,acw,ATL Ops Sup 7,32
+2022-10-16,at a training session,ATL Ops Sup 5,4
+2022-10-16,at lunch,ATL Ops Sup 5,15
+2022-10-16,at lunch,ATL Ops Sup 6,2
+2022-10-16,at lunch,ATL Ops Sup 7,6
+2022-10-16,escalation wait,ATL Ops Sup 6,1
+2022-10-16,follow up,ATL Ops Sup 5,61
+2022-10-16,follow up,ATL Ops Sup 6,16
+2022-10-16,follow up,ATL Ops Sup 7,27
+2022-10-16,on call,ATL Ops Sup 5,64
+2022-10-16,on call,ATL Ops Sup 6,30
+2022-10-16,on call,ATL Ops Sup 7,47
+2022-10-16,personal break,ATL Ops Sup 5,2
+2022-10-16,personal break,ATL Ops Sup 6,2
+2022-10-16,personal break,ATL Ops Sup 7,3
+2022-10-16,scheduled break,ATL Ops Sup 5,14
+2022-10-16,scheduled break,ATL Ops Sup 6,5
+2022-10-16,scheduled break,ATL Ops Sup 7,8
+2022-10-16,tc issues,ATL Ops Sup 5,15
+2022-10-17,acw,ATL Ops Sup 5,220
+2022-10-17,acw,ATL Ops Sup 6,248
+2022-10-17,acw,ATL Ops Sup 7,253
+2022-10-17,at a training session,ATL Ops Sup 5,1
+2022-10-17,at a training session,ATL Ops Sup 6,1
+2022-10-17,at a training session,ATL Ops Sup 7,2
+2022-10-17,at lunch,ATL Ops Sup 5,15
+2022-10-17,at lunch,ATL Ops Sup 6,14
+2022-10-17,at lunch,ATL Ops Sup 7,14
+2022-10-17,coaching,ATL Ops Sup 5,1
+2022-10-17,escalation wait,ATL Ops Sup 5,13
+2022-10-17,escalation wait,ATL Ops Sup 6,18
+2022-10-17,escalation wait,ATL Ops Sup 7,21
+2022-10-17,follow up,ATL Ops Sup 5,185
+2022-10-17,follow up,ATL Ops Sup 6,185
+2022-10-17,follow up,ATL Ops Sup 7,160
+2022-10-17,in a meeting,ATL Ops Sup 6,1
+2022-10-17,in a meeting,ATL Ops Sup 7,1
+2022-10-17,on call,ATL Ops Sup 5,259
+2022-10-17,on call,ATL Ops Sup 6,248
+2022-10-17,on call,ATL Ops Sup 7,259
+2022-10-17,personal break,ATL Ops Sup 5,4
+2022-10-17,personal break,ATL Ops Sup 6,7
+2022-10-17,personal break,ATL Ops Sup 7,7
+2022-10-17,scheduled break,ATL Ops Sup 5,26
+2022-10-17,scheduled break,ATL Ops Sup 6,24
+2022-10-17,scheduled break,ATL Ops Sup 7,33
+2022-10-17,special assignment,ATL Ops Sup 6,1
+2022-10-17,system issues,ATL Ops Sup 5,1
+2022-10-17,system issues,ATL Ops Sup 7,1
+2022-10-17,tc issues,ATL Ops Sup 5,26
+2022-10-17,tc issues,ATL Ops Sup 6,13
+2022-10-17,tc issues,ATL Ops Sup 7,9
+2022-10-18,acw,ATL Ops Sup 5,199
+2022-10-18,acw,ATL Ops Sup 6,250
+2022-10-18,acw,ATL Ops Sup 7,283
+2022-10-18,at a training session,ATL Ops Sup 5,1
+2022-10-18,at a training session,ATL Ops Sup 7,2
+2022-10-18,at lunch,ATL Ops Sup 5,19
+2022-10-18,at lunch,ATL Ops Sup 6,13
+2022-10-18,at lunch,ATL Ops Sup 7,24
+2022-10-18,escalation wait,ATL Ops Sup 5,15
+2022-10-18,escalation wait,ATL Ops Sup 6,12
+2022-10-18,escalation wait,ATL Ops Sup 7,15
+2022-10-18,follow up,ATL Ops Sup 5,166
+2022-10-18,follow up,ATL Ops Sup 6,188
+2022-10-18,follow up,ATL Ops Sup 7,215
+2022-10-18,in a meeting,ATL Ops Sup 7,3
+2022-10-18,on call,ATL Ops Sup 5,229
+2022-10-18,on call,ATL Ops Sup 6,254
+2022-10-18,on call,ATL Ops Sup 7,307
+2022-10-18,personal break,ATL Ops Sup 5,8
+2022-10-18,personal break,ATL Ops Sup 6,19
+2022-10-18,personal break,ATL Ops Sup 7,10
+2022-10-18,scheduled break,ATL Ops Sup 5,32
+2022-10-18,scheduled break,ATL Ops Sup 6,31
+2022-10-18,scheduled break,ATL Ops Sup 7,35
+2022-10-18,special assignment,ATL Ops Sup 5,1
+2022-10-18,special assignment,ATL Ops Sup 6,1
+2022-10-18,system issues,ATL Ops Sup 5,4
+2022-10-18,system issues,ATL Ops Sup 7,4
+2022-10-18,tc issues,ATL Ops Sup 5,26
+2022-10-18,tc issues,ATL Ops Sup 6,7
+2022-10-18,tc issues,ATL Ops Sup 7,11
+2022-10-19,acw,ATL Ops Sup 5,223
+2022-10-19,acw,ATL Ops Sup 6,236
+2022-10-19,acw,ATL Ops Sup 7,261
+2022-10-19,at a training session,ATL Ops Sup 5,7
+2022-10-19,at a training session,ATL Ops Sup 6,1
+2022-10-19,at a training session,ATL Ops Sup 7,4
+2022-10-19,at lunch,ATL Ops Sup 5,24
+2022-10-19,at lunch,ATL Ops Sup 6,13
+2022-10-19,at lunch,ATL Ops Sup 7,19
+2022-10-19,coaching,ATL Ops Sup 6,1
+2022-10-19,escalation wait,ATL Ops Sup 5,16
+2022-10-19,escalation wait,ATL Ops Sup 6,17
+2022-10-19,escalation wait,ATL Ops Sup 7,15
+2022-10-19,follow up,ATL Ops Sup 5,170
+2022-10-19,follow up,ATL Ops Sup 6,168
+2022-10-19,follow up,ATL Ops Sup 7,191
+2022-10-19,in a meeting,ATL Ops Sup 5,1
+2022-10-19,in a meeting,ATL Ops Sup 6,3
+2022-10-19,in a meeting,ATL Ops Sup 7,1
+2022-10-19,on call,ATL Ops Sup 5,235
+2022-10-19,on call,ATL Ops Sup 6,228
+2022-10-19,on call,ATL Ops Sup 7,287
+2022-10-19,personal break,ATL Ops Sup 5,7
+2022-10-19,personal break,ATL Ops Sup 6,6
+2022-10-19,personal break,ATL Ops Sup 7,9
+2022-10-19,scheduled break,ATL Ops Sup 5,34
+2022-10-19,scheduled break,ATL Ops Sup 6,27
+2022-10-19,scheduled break,ATL Ops Sup 7,34
+2022-10-19,special assignment,ATL Ops Sup 5,8
+2022-10-19,special assignment,ATL Ops Sup 6,6
+2022-10-19,system issues,ATL Ops Sup 7,1
+2022-10-19,tc issues,ATL Ops Sup 5,10
+2022-10-19,tc issues,ATL Ops Sup 6,24
+2022-10-19,tc issues,ATL Ops Sup 7,21
+2022-10-20,acw,ATL Ops Sup 5,210
+2022-10-20,acw,ATL Ops Sup 6,243
+2022-10-20,acw,ATL Ops Sup 7,297
+2022-10-20,at a training session,ATL Ops Sup 5,2
+2022-10-20,at a training session,ATL Ops Sup 6,3
+2022-10-20,at a training session,ATL Ops Sup 7,7
+2022-10-20,at lunch,ATL Ops Sup 5,21
+2022-10-20,at lunch,ATL Ops Sup 6,11
+2022-10-20,at lunch,ATL Ops Sup 7,23
+2022-10-20,escalation wait,ATL Ops Sup 5,17
+2022-10-20,escalation wait,ATL Ops Sup 6,27
+2022-10-20,escalation wait,ATL Ops Sup 7,17
+2022-10-20,follow up,ATL Ops Sup 5,152
+2022-10-20,follow up,ATL Ops Sup 6,154
+2022-10-20,follow up,ATL Ops Sup 7,205
+2022-10-20,in a meeting,ATL Ops Sup 5,1
+2022-10-20,in a meeting,ATL Ops Sup 6,1
+2022-10-20,on call,ATL Ops Sup 5,251
+2022-10-20,on call,ATL Ops Sup 6,228
+2022-10-20,on call,ATL Ops Sup 7,307
+2022-10-20,personal break,ATL Ops Sup 5,7
+2022-10-20,personal break,ATL Ops Sup 6,7
+2022-10-20,personal break,ATL Ops Sup 7,16
+2022-10-20,scheduled break,ATL Ops Sup 5,30
+2022-10-20,scheduled break,ATL Ops Sup 6,25
+2022-10-20,scheduled break,ATL Ops Sup 7,42
+2022-10-20,special assignment,ATL Ops Sup 5,9
+2022-10-20,special assignment,ATL Ops Sup 6,1
+2022-10-20,special assignment,ATL Ops Sup 7,1
+2022-10-20,system issues,ATL Ops Sup 5,4
+2022-10-20,system issues,ATL Ops Sup 7,4
+2022-10-20,tc issues,ATL Ops Sup 5,22
+2022-10-20,tc issues,ATL Ops Sup 6,9
+2022-10-20,tc issues,ATL Ops Sup 7,17
+2022-10-21,acw,ATL Ops Sup 5,184
+2022-10-21,acw,ATL Ops Sup 6,216
+2022-10-21,acw,ATL Ops Sup 7,248
+2022-10-21,at a training session,ATL Ops Sup 5,2
+2022-10-21,at a training session,ATL Ops Sup 6,2
+2022-10-21,at lunch,ATL Ops Sup 5,18
+2022-10-21,at lunch,ATL Ops Sup 6,12
+2022-10-21,at lunch,ATL Ops Sup 7,20
+2022-10-21,coaching,ATL Ops Sup 6,1
+2022-10-21,escalation wait,ATL Ops Sup 5,14
+2022-10-21,escalation wait,ATL Ops Sup 6,5
+2022-10-21,escalation wait,ATL Ops Sup 7,8
+2022-10-21,follow up,ATL Ops Sup 5,153
+2022-10-21,follow up,ATL Ops Sup 6,154
+2022-10-21,follow up,ATL Ops Sup 7,180
+2022-10-21,in a meeting,ATL Ops Sup 6,2
+2022-10-21,in a meeting,ATL Ops Sup 7,1
+2022-10-21,on call,ATL Ops Sup 5,231
+2022-10-21,on call,ATL Ops Sup 6,217
+2022-10-21,on call,ATL Ops Sup 7,270
+2022-10-21,personal break,ATL Ops Sup 5,4
+2022-10-21,personal break,ATL Ops Sup 6,2
+2022-10-21,personal break,ATL Ops Sup 7,13
+2022-10-21,scheduled break,ATL Ops Sup 5,30
+2022-10-21,scheduled break,ATL Ops Sup 6,22
+2022-10-21,scheduled break,ATL Ops Sup 7,39
+2022-10-21,special assignment,ATL Ops Sup 5,12
+2022-10-21,special assignment,ATL Ops Sup 6,1
+2022-10-21,tc issues,ATL Ops Sup 5,10
+2022-10-21,tc issues,ATL Ops Sup 6,8
+2022-10-21,tc issues,ATL Ops Sup 7,21
+2022-10-22,acw,ATL Ops Sup 5,90
+2022-10-22,acw,ATL Ops Sup 6,48
+2022-10-22,acw,ATL Ops Sup 7,92
+2022-10-22,at a training session,ATL Ops Sup 5,4
+2022-10-22,at a training session,ATL Ops Sup 7,4
+2022-10-22,at lunch,ATL Ops Sup 5,11
+2022-10-22,at lunch,ATL Ops Sup 6,6
+2022-10-22,at lunch,ATL Ops Sup 7,7
+2022-10-22,coaching,ATL Ops Sup 7,1
+2022-10-22,escalation wait,ATL Ops Sup 5,8
+2022-10-22,escalation wait,ATL Ops Sup 7,8
+2022-10-22,follow up,ATL Ops Sup 5,86
+2022-10-22,follow up,ATL Ops Sup 6,27
+2022-10-22,follow up,ATL Ops Sup 7,77
+2022-10-22,on call,ATL Ops Sup 5,115
+2022-10-22,on call,ATL Ops Sup 6,55
+2022-10-22,on call,ATL Ops Sup 7,111
+2022-10-22,personal break,ATL Ops Sup 5,4
+2022-10-22,personal break,ATL Ops Sup 6,9
+2022-10-22,personal break,ATL Ops Sup 7,3
+2022-10-22,scheduled break,ATL Ops Sup 5,18
+2022-10-22,scheduled break,ATL Ops Sup 6,8
+2022-10-22,scheduled break,ATL Ops Sup 7,16
+2022-10-22,special assignment,ATL Ops Sup 5,7
+2022-10-22,special assignment,ATL Ops Sup 6,1
+2022-10-22,tc issues,ATL Ops Sup 5,5
+2022-10-22,tc issues,ATL Ops Sup 6,2
+2022-10-22,tc issues,ATL Ops Sup 7,6
+2022-10-23,acw,ATL Ops Sup 5,45
+2022-10-23,acw,ATL Ops Sup 6,27
+2022-10-23,acw,ATL Ops Sup 7,58
+2022-10-23,at lunch,ATL Ops Sup 5,10
+2022-10-23,at lunch,ATL Ops Sup 6,3
+2022-10-23,at lunch,ATL Ops Sup 7,6
+2022-10-23,escalation wait,ATL Ops Sup 5,2
+2022-10-23,escalation wait,ATL Ops Sup 6,3
+2022-10-23,escalation wait,ATL Ops Sup 7,1
+2022-10-23,follow up,ATL Ops Sup 5,64
+2022-10-23,follow up,ATL Ops Sup 6,15
+2022-10-23,follow up,ATL Ops Sup 7,50
+2022-10-23,on call,ATL Ops Sup 5,72
+2022-10-23,on call,ATL Ops Sup 6,26
+2022-10-23,on call,ATL Ops Sup 7,64
+2022-10-23,personal break,ATL Ops Sup 5,1
+2022-10-23,personal break,ATL Ops Sup 6,1
+2022-10-23,personal break,ATL Ops Sup 7,5
+2022-10-23,scheduled break,ATL Ops Sup 5,13
+2022-10-23,scheduled break,ATL Ops Sup 6,9
+2022-10-23,scheduled break,ATL Ops Sup 7,10
+2022-10-23,tc issues,ATL Ops Sup 5,11
+2022-10-23,tc issues,ATL Ops Sup 6,4
+2022-10-23,tc issues,ATL Ops Sup 7,4
+2022-10-24,acw,ATL Ops Sup 5,204
+2022-10-24,acw,ATL Ops Sup 6,282
+2022-10-24,acw,ATL Ops Sup 7,239
+2022-10-24,at a training session,ATL Ops Sup 5,2
+2022-10-24,at a training session,ATL Ops Sup 6,2
+2022-10-24,at lunch,ATL Ops Sup 5,11
+2022-10-24,at lunch,ATL Ops Sup 6,13
+2022-10-24,at lunch,ATL Ops Sup 7,13
+2022-10-24,coaching,ATL Ops Sup 6,1
+2022-10-24,escalation wait,ATL Ops Sup 5,12
+2022-10-24,escalation wait,ATL Ops Sup 6,33
+2022-10-24,escalation wait,ATL Ops Sup 7,8
+2022-10-24,follow up,ATL Ops Sup 5,172
+2022-10-24,follow up,ATL Ops Sup 6,210
+2022-10-24,follow up,ATL Ops Sup 7,135
+2022-10-24,in a meeting,ATL Ops Sup 5,2
+2022-10-24,in a meeting,ATL Ops Sup 7,1
+2022-10-24,on call,ATL Ops Sup 5,234
+2022-10-24,on call,ATL Ops Sup 6,283
+2022-10-24,on call,ATL Ops Sup 7,238
+2022-10-24,personal break,ATL Ops Sup 5,8
+2022-10-24,personal break,ATL Ops Sup 6,12
+2022-10-24,personal break,ATL Ops Sup 7,8
+2022-10-24,scheduled break,ATL Ops Sup 5,29
+2022-10-24,scheduled break,ATL Ops Sup 6,28
+2022-10-24,scheduled break,ATL Ops Sup 7,26
+2022-10-24,special assignment,ATL Ops Sup 5,9
+2022-10-24,special assignment,ATL Ops Sup 6,2
+2022-10-24,system issues,ATL Ops Sup 5,1
+2022-10-24,system issues,ATL Ops Sup 6,4
+2022-10-24,system issues,ATL Ops Sup 7,1
+2022-10-24,tc issues,ATL Ops Sup 5,17
+2022-10-24,tc issues,ATL Ops Sup 6,12
+2022-10-24,tc issues,ATL Ops Sup 7,12
+2022-10-25,acw,ATL Ops Sup 5,184
+2022-10-25,acw,ATL Ops Sup 6,297
+2022-10-25,acw,ATL Ops Sup 7,262
+2022-10-25,at a training session,ATL Ops Sup 5,2
+2022-10-25,at a training session,ATL Ops Sup 6,2
+2022-10-25,at a training session,ATL Ops Sup 7,2
+2022-10-25,at lunch,ATL Ops Sup 5,13
+2022-10-25,at lunch,ATL Ops Sup 6,15
+2022-10-25,at lunch,ATL Ops Sup 7,17
+2022-10-25,escalation wait,ATL Ops Sup 5,12
+2022-10-25,escalation wait,ATL Ops Sup 6,25
+2022-10-25,escalation wait,ATL Ops Sup 7,10
+2022-10-25,follow up,ATL Ops Sup 5,160
+2022-10-25,follow up,ATL Ops Sup 6,203
+2022-10-25,follow up,ATL Ops Sup 7,180
+2022-10-25,in a meeting,ATL Ops Sup 5,2
+2022-10-25,in a meeting,ATL Ops Sup 6,2
+2022-10-25,in a meeting,ATL Ops Sup 7,1
+2022-10-25,on call,ATL Ops Sup 5,216
+2022-10-25,on call,ATL Ops Sup 6,282
+2022-10-25,on call,ATL Ops Sup 7,270
+2022-10-25,personal break,ATL Ops Sup 5,6
+2022-10-25,personal break,ATL Ops Sup 6,13
+2022-10-25,personal break,ATL Ops Sup 7,8
+2022-10-25,scheduled break,ATL Ops Sup 5,30
+2022-10-25,scheduled break,ATL Ops Sup 6,28
+2022-10-25,scheduled break,ATL Ops Sup 7,36
+2022-10-25,special assignment,ATL Ops Sup 5,1
+2022-10-25,special assignment,ATL Ops Sup 6,2
+2022-10-25,special assignment,ATL Ops Sup 7,1
+2022-10-25,system issues,ATL Ops Sup 5,1
+2022-10-25,system issues,ATL Ops Sup 7,2
+2022-10-25,tc issues,ATL Ops Sup 5,9
+2022-10-25,tc issues,ATL Ops Sup 6,5
+2022-10-25,tc issues,ATL Ops Sup 7,5
+2022-10-26,acw,ATL Ops Sup 5,269
+2022-10-26,acw,ATL Ops Sup 6,218
+2022-10-26,acw,ATL Ops Sup 7,207
+2022-10-26,at a training session,ATL Ops Sup 5,2
+2022-10-26,at a training session,ATL Ops Sup 6,2
+2022-10-26,at lunch,ATL Ops Sup 5,19
+2022-10-26,at lunch,ATL Ops Sup 6,14
+2022-10-26,at lunch,ATL Ops Sup 7,16
+2022-10-26,escalation wait,ATL Ops Sup 5,15
+2022-10-26,escalation wait,ATL Ops Sup 6,9
+2022-10-26,escalation wait,ATL Ops Sup 7,19
+2022-10-26,follow up,ATL Ops Sup 5,209
+2022-10-26,follow up,ATL Ops Sup 6,143
+2022-10-26,follow up,ATL Ops Sup 7,162
+2022-10-26,in a meeting,ATL Ops Sup 7,1
+2022-10-26,on call,ATL Ops Sup 5,293
+2022-10-26,on call,ATL Ops Sup 6,210
+2022-10-26,on call,ATL Ops Sup 7,239
+2022-10-26,personal break,ATL Ops Sup 5,8
+2022-10-26,personal break,ATL Ops Sup 6,9
+2022-10-26,personal break,ATL Ops Sup 7,13
+2022-10-26,scheduled break,ATL Ops Sup 5,36
+2022-10-26,scheduled break,ATL Ops Sup 6,25
+2022-10-26,scheduled break,ATL Ops Sup 7,28
+2022-10-26,special assignment,ATL Ops Sup 5,8
+2022-10-26,special assignment,ATL Ops Sup 6,1
+2022-10-26,tc issues,ATL Ops Sup 5,16
+2022-10-26,tc issues,ATL Ops Sup 7,20
+2022-10-27,acw,ATL Ops Sup 5,254
+2022-10-27,acw,ATL Ops Sup 6,227
+2022-10-27,acw,ATL Ops Sup 7,272
+2022-10-27,at a training session,ATL Ops Sup 5,1
+2022-10-27,at a training session,ATL Ops Sup 6,1
+2022-10-27,at a training session,ATL Ops Sup 7,3
+2022-10-27,at lunch,ATL Ops Sup 5,22
+2022-10-27,at lunch,ATL Ops Sup 6,14
+2022-10-27,at lunch,ATL Ops Sup 7,19
+2022-10-27,escalation wait,ATL Ops Sup 5,21
+2022-10-27,escalation wait,ATL Ops Sup 6,7
+2022-10-27,escalation wait,ATL Ops Sup 7,16
+2022-10-27,follow up,ATL Ops Sup 5,215
+2022-10-27,follow up,ATL Ops Sup 6,153
+2022-10-27,follow up,ATL Ops Sup 7,204
+2022-10-27,in a meeting,ATL Ops Sup 7,1
+2022-10-27,on call,ATL Ops Sup 5,284
+2022-10-27,on call,ATL Ops Sup 6,224
+2022-10-27,on call,ATL Ops Sup 7,294
+2022-10-27,personal break,ATL Ops Sup 5,5
+2022-10-27,personal break,ATL Ops Sup 6,5
+2022-10-27,personal break,ATL Ops Sup 7,14
+2022-10-27,scheduled break,ATL Ops Sup 5,37
+2022-10-27,scheduled break,ATL Ops Sup 6,22
+2022-10-27,scheduled break,ATL Ops Sup 7,36
+2022-10-27,special assignment,ATL Ops Sup 5,11
+2022-10-27,tc issues,ATL Ops Sup 5,10
+2022-10-27,tc issues,ATL Ops Sup 6,8
+2022-10-27,tc issues,ATL Ops Sup 7,10
+2022-10-28,acw,ATL Ops Sup 5,238
+2022-10-28,acw,ATL Ops Sup 6,230
+2022-10-28,acw,ATL Ops Sup 7,264
+2022-10-28,at a training session,ATL Ops Sup 7,2
+2022-10-28,at lunch,ATL Ops Sup 5,15
+2022-10-28,at lunch,ATL Ops Sup 6,11
+2022-10-28,at lunch,ATL Ops Sup 7,16
+2022-10-28,escalation wait,ATL Ops Sup 5,19
+2022-10-28,escalation wait,ATL Ops Sup 6,10
+2022-10-28,escalation wait,ATL Ops Sup 7,26
+2022-10-28,follow up,ATL Ops Sup 5,183
+2022-10-28,follow up,ATL Ops Sup 6,154
+2022-10-28,follow up,ATL Ops Sup 7,223
+2022-10-28,in a meeting,ATL Ops Sup 5,1
+2022-10-28,in a meeting,ATL Ops Sup 7,1
+2022-10-28,on call,ATL Ops Sup 5,273
+2022-10-28,on call,ATL Ops Sup 6,218
+2022-10-28,on call,ATL Ops Sup 7,305
+2022-10-28,personal break,ATL Ops Sup 5,10
+2022-10-28,personal break,ATL Ops Sup 6,5
+2022-10-28,personal break,ATL Ops Sup 7,14
+2022-10-28,scheduled break,ATL Ops Sup 5,27
+2022-10-28,scheduled break,ATL Ops Sup 6,21
+2022-10-28,scheduled break,ATL Ops Sup 7,37
+2022-10-28,special assignment,ATL Ops Sup 5,12
+2022-10-28,special assignment,ATL Ops Sup 6,1
+2022-10-28,special assignment,ATL Ops Sup 7,1
+2022-10-28,system issues,ATL Ops Sup 5,1
+2022-10-28,tc issues,ATL Ops Sup 5,10
+2022-10-28,tc issues,ATL Ops Sup 6,9
+2022-10-28,tc issues,ATL Ops Sup 7,6
+2022-10-29,acw,ATL Ops Sup 5,91
+2022-10-29,acw,ATL Ops Sup 6,56
+2022-10-29,acw,ATL Ops Sup 7,95
+2022-10-29,at lunch,ATL Ops Sup 5,12
+2022-10-29,at lunch,ATL Ops Sup 6,3
+2022-10-29,at lunch,ATL Ops Sup 7,9
+2022-10-29,escalation wait,ATL Ops Sup 5,7
+2022-10-29,escalation wait,ATL Ops Sup 6,1
+2022-10-29,escalation wait,ATL Ops Sup 7,4
+2022-10-29,follow up,ATL Ops Sup 5,83
+2022-10-29,follow up,ATL Ops Sup 6,38
+2022-10-29,follow up,ATL Ops Sup 7,96
+2022-10-29,on call,ATL Ops Sup 5,124
+2022-10-29,on call,ATL Ops Sup 6,67
+2022-10-29,on call,ATL Ops Sup 7,146
+2022-10-29,personal break,ATL Ops Sup 5,2
+2022-10-29,personal break,ATL Ops Sup 6,4
+2022-10-29,personal break,ATL Ops Sup 7,8
+2022-10-29,scheduled break,ATL Ops Sup 5,13
+2022-10-29,scheduled break,ATL Ops Sup 6,6
+2022-10-29,scheduled break,ATL Ops Sup 7,16
+2022-10-29,special assignment,ATL Ops Sup 5,3
+2022-10-29,tc issues,ATL Ops Sup 5,45
+2022-10-29,tc issues,ATL Ops Sup 6,3
+2022-10-30,acw,ATL Ops Sup 5,47
+2022-10-30,acw,ATL Ops Sup 6,53
+2022-10-30,acw,ATL Ops Sup 7,49
+2022-10-30,at lunch,ATL Ops Sup 5,10
+2022-10-30,at lunch,ATL Ops Sup 6,3
+2022-10-30,at lunch,ATL Ops Sup 7,4
+2022-10-30,escalation wait,ATL Ops Sup 5,1
+2022-10-30,escalation wait,ATL Ops Sup 6,1
+2022-10-30,escalation wait,ATL Ops Sup 7,2
+2022-10-30,follow up,ATL Ops Sup 5,55
+2022-10-30,follow up,ATL Ops Sup 6,46
+2022-10-30,follow up,ATL Ops Sup 7,56
+2022-10-30,on call,ATL Ops Sup 5,64
+2022-10-30,on call,ATL Ops Sup 6,53
+2022-10-30,on call,ATL Ops Sup 7,73
+2022-10-30,personal break,ATL Ops Sup 5,1
+2022-10-30,personal break,ATL Ops Sup 7,2
+2022-10-30,scheduled break,ATL Ops Sup 5,9
+2022-10-30,scheduled break,ATL Ops Sup 6,6
+2022-10-30,scheduled break,ATL Ops Sup 7,10
+2022-10-30,tc issues,ATL Ops Sup 5,1
+2022-10-30,tc issues,ATL Ops Sup 7,3
+2022-10-31,acw,ATL Ops Sup 5,201
+2022-10-31,acw,ATL Ops Sup 6,282
+2022-10-31,acw,ATL Ops Sup 7,261
+2022-10-31,at a training session,ATL Ops Sup 5,6
+2022-10-31,at a training session,ATL Ops Sup 6,6
+2022-10-31,at a training session,ATL Ops Sup 7,4
+2022-10-31,at lunch,ATL Ops Sup 5,14
+2022-10-31,at lunch,ATL Ops Sup 6,11
+2022-10-31,at lunch,ATL Ops Sup 7,15
+2022-10-31,escalation wait,ATL Ops Sup 5,20
+2022-10-31,escalation wait,ATL Ops Sup 6,22
+2022-10-31,escalation wait,ATL Ops Sup 7,10
+2022-10-31,follow up,ATL Ops Sup 5,154
+2022-10-31,follow up,ATL Ops Sup 6,199
+2022-10-31,follow up,ATL Ops Sup 7,170
+2022-10-31,in a meeting,ATL Ops Sup 5,1
+2022-10-31,in a meeting,ATL Ops Sup 6,1
+2022-10-31,on call,ATL Ops Sup 5,231
+2022-10-31,on call,ATL Ops Sup 6,272
+2022-10-31,on call,ATL Ops Sup 7,261
+2022-10-31,personal break,ATL Ops Sup 5,10
+2022-10-31,personal break,ATL Ops Sup 6,5
+2022-10-31,personal break,ATL Ops Sup 7,6
+2022-10-31,scheduled break,ATL Ops Sup 5,27
+2022-10-31,scheduled break,ATL Ops Sup 6,31
+2022-10-31,scheduled break,ATL Ops Sup 7,25
+2022-10-31,special assignment,ATL Ops Sup 5,8
+2022-10-31,special assignment,ATL Ops Sup 6,1
+2022-10-31,system issues,ATL Ops Sup 5,1
+2022-10-31,system issues,ATL Ops Sup 7,1
+2022-10-31,tc issues,ATL Ops Sup 5,31
+2022-10-31,tc issues,ATL Ops Sup 6,27
+2022-10-31,tc issues,ATL Ops Sup 7,6
+2022-11-01,acw,ATL Ops Sup 5,179
+2022-11-01,acw,ATL Ops Sup 6,288
+2022-11-01,acw,ATL Ops Sup 7,242
+2022-11-01,at a training session,ATL Ops Sup 5,12
+2022-11-01,at a training session,ATL Ops Sup 6,12
+2022-11-01,at a training session,ATL Ops Sup 7,11
+2022-11-01,at lunch,ATL Ops Sup 5,18
+2022-11-01,at lunch,ATL Ops Sup 6,19
+2022-11-01,at lunch,ATL Ops Sup 7,19
+2022-11-01,coaching,ATL Ops Sup 5,1
+2022-11-01,escalation wait,ATL Ops Sup 5,24
+2022-11-01,escalation wait,ATL Ops Sup 6,13
+2022-11-01,escalation wait,ATL Ops Sup 7,15
+2022-11-01,follow up,ATL Ops Sup 5,151
+2022-11-01,follow up,ATL Ops Sup 6,195
+2022-11-01,follow up,ATL Ops Sup 7,180
+2022-11-01,in a meeting,ATL Ops Sup 5,1
+2022-11-01,in a meeting,ATL Ops Sup 6,2
+2022-11-01,in a meeting,ATL Ops Sup 7,6
+2022-11-01,on call,ATL Ops Sup 5,208
+2022-11-01,on call,ATL Ops Sup 6,289
+2022-11-01,on call,ATL Ops Sup 7,270
+2022-11-01,personal break,ATL Ops Sup 5,5
+2022-11-01,personal break,ATL Ops Sup 6,12
+2022-11-01,personal break,ATL Ops Sup 7,7
+2022-11-01,scheduled break,ATL Ops Sup 5,30
+2022-11-01,scheduled break,ATL Ops Sup 6,36
+2022-11-01,scheduled break,ATL Ops Sup 7,35
+2022-11-01,special assignment,ATL Ops Sup 5,1
+2022-11-01,special assignment,ATL Ops Sup 6,3
+2022-11-01,system issues,ATL Ops Sup 6,1
+2022-11-01,tc issues,ATL Ops Sup 5,17
+2022-11-01,tc issues,ATL Ops Sup 6,21
+2022-11-01,tc issues,ATL Ops Sup 7,11
+2022-11-02,acw,ATL Ops Sup 5,271
+2022-11-02,acw,ATL Ops Sup 6,228
+2022-11-02,acw,ATL Ops Sup 7,256
+2022-11-02,at a training session,ATL Ops Sup 5,12
+2022-11-02,at a training session,ATL Ops Sup 6,12
+2022-11-02,at a training session,ATL Ops Sup 7,8
+2022-11-02,at lunch,ATL Ops Sup 5,19
+2022-11-02,at lunch,ATL Ops Sup 6,21
+2022-11-02,at lunch,ATL Ops Sup 7,23
+2022-11-02,coaching,ATL Ops Sup 5,2
+2022-11-02,escalation wait,ATL Ops Sup 5,21
+2022-11-02,escalation wait,ATL Ops Sup 6,21
+2022-11-02,escalation wait,ATL Ops Sup 7,11
+2022-11-02,follow up,ATL Ops Sup 5,208
+2022-11-02,follow up,ATL Ops Sup 6,180
+2022-11-02,follow up,ATL Ops Sup 7,194
+2022-11-02,on call,ATL Ops Sup 5,293
+2022-11-02,on call,ATL Ops Sup 6,229
+2022-11-02,on call,ATL Ops Sup 7,300
+2022-11-02,personal break,ATL Ops Sup 5,5
+2022-11-02,personal break,ATL Ops Sup 6,3
+2022-11-02,personal break,ATL Ops Sup 7,3
+2022-11-02,scheduled break,ATL Ops Sup 5,39
+2022-11-02,scheduled break,ATL Ops Sup 6,28
+2022-11-02,scheduled break,ATL Ops Sup 7,33
+2022-11-02,special assignment,ATL Ops Sup 5,5
+2022-11-02,special assignment,ATL Ops Sup 6,2
+2022-11-02,special assignment,ATL Ops Sup 7,1
+2022-11-02,tc issues,ATL Ops Sup 5,21
+2022-11-02,tc issues,ATL Ops Sup 6,28
+2022-11-02,tc issues,ATL Ops Sup 7,10
+2022-11-03,acw,ATL Ops Sup 5,237
+2022-11-03,acw,ATL Ops Sup 6,257
+2022-11-03,acw,ATL Ops Sup 7,267
+2022-11-03,at a training session,ATL Ops Sup 5,15
+2022-11-03,at a training session,ATL Ops Sup 6,12
+2022-11-03,at a training session,ATL Ops Sup 7,7
+2022-11-03,at lunch,ATL Ops Sup 5,18
+2022-11-03,at lunch,ATL Ops Sup 6,19
+2022-11-03,at lunch,ATL Ops Sup 7,18
+2022-11-03,coaching,ATL Ops Sup 6,1
+2022-11-03,escalation wait,ATL Ops Sup 5,19
+2022-11-03,escalation wait,ATL Ops Sup 6,14
+2022-11-03,escalation wait,ATL Ops Sup 7,9
+2022-11-03,follow up,ATL Ops Sup 5,199
+2022-11-03,follow up,ATL Ops Sup 6,175
+2022-11-03,follow up,ATL Ops Sup 7,195
+2022-11-03,in a meeting,ATL Ops Sup 6,1
+2022-11-03,on call,ATL Ops Sup 5,271
+2022-11-03,on call,ATL Ops Sup 6,250
+2022-11-03,on call,ATL Ops Sup 7,315
+2022-11-03,personal break,ATL Ops Sup 5,11
+2022-11-03,personal break,ATL Ops Sup 6,7
+2022-11-03,personal break,ATL Ops Sup 7,14
+2022-11-03,scheduled break,ATL Ops Sup 5,38
+2022-11-03,scheduled break,ATL Ops Sup 6,35
+2022-11-03,scheduled break,ATL Ops Sup 7,37
+2022-11-03,special assignment,ATL Ops Sup 5,3
+2022-11-03,special assignment,ATL Ops Sup 6,1
+2022-11-03,system issues,ATL Ops Sup 5,1
+2022-11-03,system issues,ATL Ops Sup 7,1
+2022-11-03,tc issues,ATL Ops Sup 5,16
+2022-11-03,tc issues,ATL Ops Sup 6,3
+2022-11-03,tc issues,ATL Ops Sup 7,10
+2022-11-04,acw,ATL Ops Sup 5,180
+2022-11-04,acw,ATL Ops Sup 6,262
+2022-11-04,acw,ATL Ops Sup 7,299
+2022-11-04,at a training session,ATL Ops Sup 5,14
+2022-11-04,at a training session,ATL Ops Sup 6,13
+2022-11-04,at a training session,ATL Ops Sup 7,10
+2022-11-04,at lunch,ATL Ops Sup 5,14
+2022-11-04,at lunch,ATL Ops Sup 6,15
+2022-11-04,at lunch,ATL Ops Sup 7,22
+2022-11-04,escalation wait,ATL Ops Sup 5,11
+2022-11-04,escalation wait,ATL Ops Sup 6,21
+2022-11-04,escalation wait,ATL Ops Sup 7,9
+2022-11-04,follow up,ATL Ops Sup 5,150
+2022-11-04,follow up,ATL Ops Sup 6,175
+2022-11-04,follow up,ATL Ops Sup 7,224
+2022-11-04,in a meeting,ATL Ops Sup 7,1
+2022-11-04,on call,ATL Ops Sup 5,207
+2022-11-04,on call,ATL Ops Sup 6,250
+2022-11-04,on call,ATL Ops Sup 7,341
+2022-11-04,personal break,ATL Ops Sup 5,11
+2022-11-04,personal break,ATL Ops Sup 6,6
+2022-11-04,personal break,ATL Ops Sup 7,17
+2022-11-04,scheduled break,ATL Ops Sup 5,32
+2022-11-04,scheduled break,ATL Ops Sup 6,29
+2022-11-04,scheduled break,ATL Ops Sup 7,41
+2022-11-04,special assignment,ATL Ops Sup 5,2
+2022-11-04,system issues,ATL Ops Sup 5,1
+2022-11-04,tc issues,ATL Ops Sup 5,7
+2022-11-04,tc issues,ATL Ops Sup 6,1
+2022-11-05,acw,ATL Ops Sup 5,54
+2022-11-05,acw,ATL Ops Sup 6,79
+2022-11-05,acw,ATL Ops Sup 7,71
+2022-11-05,at lunch,ATL Ops Sup 5,11
+2022-11-05,at lunch,ATL Ops Sup 6,7
+2022-11-05,at lunch,ATL Ops Sup 7,6
+2022-11-05,escalation wait,ATL Ops Sup 5,3
+2022-11-05,escalation wait,ATL Ops Sup 6,7
+2022-11-05,escalation wait,ATL Ops Sup 7,3
+2022-11-05,follow up,ATL Ops Sup 5,70
+2022-11-05,follow up,ATL Ops Sup 6,49
+2022-11-05,follow up,ATL Ops Sup 7,77
+2022-11-05,on call,ATL Ops Sup 5,83
+2022-11-05,on call,ATL Ops Sup 6,77
+2022-11-05,on call,ATL Ops Sup 7,111
+2022-11-05,personal break,ATL Ops Sup 6,5
+2022-11-05,personal break,ATL Ops Sup 7,4
+2022-11-05,scheduled break,ATL Ops Sup 5,15
+2022-11-05,scheduled break,ATL Ops Sup 6,12
+2022-11-05,scheduled break,ATL Ops Sup 7,13
+2022-11-05,special assignment,ATL Ops Sup 5,2
+2022-11-05,system issues,ATL Ops Sup 5,4
+2022-11-05,system issues,ATL Ops Sup 7,4
+2022-11-05,tc issues,ATL Ops Sup 5,8
+2022-11-05,tc issues,ATL Ops Sup 6,4
+2022-11-05,tc issues,ATL Ops Sup 7,5
+2022-11-06,acw,ATL Ops Sup 5,57
+2022-11-06,acw,ATL Ops Sup 6,23
+2022-11-06,acw,ATL Ops Sup 7,50
+2022-11-06,at lunch,ATL Ops Sup 5,15
+2022-11-06,at lunch,ATL Ops Sup 6,1
+2022-11-06,at lunch,ATL Ops Sup 7,7
+2022-11-06,escalation wait,ATL Ops Sup 5,2
+2022-11-06,escalation wait,ATL Ops Sup 6,2
+2022-11-06,escalation wait,ATL Ops Sup 7,1
+2022-11-06,follow up,ATL Ops Sup 5,64
+2022-11-06,follow up,ATL Ops Sup 6,10
+2022-11-06,follow up,ATL Ops Sup 7,32
+2022-11-06,on call,ATL Ops Sup 5,68
+2022-11-06,on call,ATL Ops Sup 6,23
+2022-11-06,on call,ATL Ops Sup 7,61
+2022-11-06,personal break,ATL Ops Sup 5,1
+2022-11-06,personal break,ATL Ops Sup 6,1
+2022-11-06,personal break,ATL Ops Sup 7,5
+2022-11-06,scheduled break,ATL Ops Sup 5,21
+2022-11-06,scheduled break,ATL Ops Sup 6,4
+2022-11-06,scheduled break,ATL Ops Sup 7,12
+2022-11-06,special assignment,ATL Ops Sup 5,1
+2022-11-06,system issues,ATL Ops Sup 7,1
+2022-11-06,tc issues,ATL Ops Sup 5,4
+2022-11-06,tc issues,ATL Ops Sup 6,4
+2022-11-07,acw,ATL Ops Sup 5,198
+2022-11-07,acw,ATL Ops Sup 6,283
+2022-11-07,acw,ATL Ops Sup 7,259
+2022-11-07,at a training session,ATL Ops Sup 5,23
+2022-11-07,at a training session,ATL Ops Sup 6,28
+2022-11-07,at a training session,ATL Ops Sup 7,15
+2022-11-07,at lunch,ATL Ops Sup 5,17
+2022-11-07,at lunch,ATL Ops Sup 6,19
+2022-11-07,at lunch,ATL Ops Sup 7,20
+2022-11-07,coaching,ATL Ops Sup 5,2
+2022-11-07,escalation wait,ATL Ops Sup 5,24
+2022-11-07,escalation wait,ATL Ops Sup 6,14
+2022-11-07,escalation wait,ATL Ops Sup 7,17
+2022-11-07,follow up,ATL Ops Sup 5,166
+2022-11-07,follow up,ATL Ops Sup 6,194
+2022-11-07,follow up,ATL Ops Sup 7,177
+2022-11-07,in a meeting,ATL Ops Sup 6,1
+2022-11-07,in a meeting,ATL Ops Sup 7,2
+2022-11-07,on call,ATL Ops Sup 5,234
+2022-11-07,on call,ATL Ops Sup 6,276
+2022-11-07,on call,ATL Ops Sup 7,270
+2022-11-07,personal break,ATL Ops Sup 5,12
+2022-11-07,personal break,ATL Ops Sup 6,10
+2022-11-07,personal break,ATL Ops Sup 7,7
+2022-11-07,scheduled break,ATL Ops Sup 5,32
+2022-11-07,scheduled break,ATL Ops Sup 6,34
+2022-11-07,scheduled break,ATL Ops Sup 7,35
+2022-11-07,special assignment,ATL Ops Sup 6,1
+2022-11-07,system issues,ATL Ops Sup 7,2
+2022-11-07,tc issues,ATL Ops Sup 5,2
+2022-11-07,tc issues,ATL Ops Sup 6,9
+2022-11-07,tc issues,ATL Ops Sup 7,8
+2022-11-08,acw,ATL Ops Sup 5,236
+2022-11-08,acw,ATL Ops Sup 6,296
+2022-11-08,acw,ATL Ops Sup 7,254
+2022-11-08,at a training session,ATL Ops Sup 5,10
+2022-11-08,at a training session,ATL Ops Sup 6,22
+2022-11-08,at a training session,ATL Ops Sup 7,17
+2022-11-08,at lunch,ATL Ops Sup 5,19
+2022-11-08,at lunch,ATL Ops Sup 6,15
+2022-11-08,at lunch,ATL Ops Sup 7,21
+2022-11-08,escalation wait,ATL Ops Sup 5,17
+2022-11-08,escalation wait,ATL Ops Sup 6,13
+2022-11-08,escalation wait,ATL Ops Sup 7,12
+2022-11-08,follow up,ATL Ops Sup 5,190
+2022-11-08,follow up,ATL Ops Sup 6,204
+2022-11-08,follow up,ATL Ops Sup 7,216
+2022-11-08,in a meeting,ATL Ops Sup 7,4
+2022-11-08,on call,ATL Ops Sup 5,265
+2022-11-08,on call,ATL Ops Sup 6,294
+2022-11-08,on call,ATL Ops Sup 7,280
+2022-11-08,personal break,ATL Ops Sup 5,6
+2022-11-08,personal break,ATL Ops Sup 6,8
+2022-11-08,personal break,ATL Ops Sup 7,11
+2022-11-08,scheduled break,ATL Ops Sup 5,35
+2022-11-08,scheduled break,ATL Ops Sup 6,33
+2022-11-08,scheduled break,ATL Ops Sup 7,41
+2022-11-08,special assignment,ATL Ops Sup 6,1
+2022-11-08,special assignment,ATL Ops Sup 7,1
+2022-11-08,system issues,ATL Ops Sup 7,1
+2022-11-08,tc issues,ATL Ops Sup 5,1
+2022-11-08,tc issues,ATL Ops Sup 6,2
+2022-11-08,tc issues,ATL Ops Sup 7,6
+2022-11-09,acw,ATL Ops Sup 5,266
+2022-11-09,acw,ATL Ops Sup 6,199
+2022-11-09,acw,ATL Ops Sup 7,221
+2022-11-09,at a training session,ATL Ops Sup 5,13
+2022-11-09,at a training session,ATL Ops Sup 6,16
+2022-11-09,at a training session,ATL Ops Sup 7,14
+2022-11-09,at lunch,ATL Ops Sup 5,23
+2022-11-09,at lunch,ATL Ops Sup 6,14
+2022-11-09,at lunch,ATL Ops Sup 7,16
+2022-11-09,coaching,ATL Ops Sup 7,1
+2022-11-09,escalation wait,ATL Ops Sup 5,18
+2022-11-09,escalation wait,ATL Ops Sup 6,17
+2022-11-09,escalation wait,ATL Ops Sup 7,7
+2022-11-09,follow up,ATL Ops Sup 5,205
+2022-11-09,follow up,ATL Ops Sup 6,149
+2022-11-09,follow up,ATL Ops Sup 7,200
+2022-11-09,in a meeting,ATL Ops Sup 5,1
+2022-11-09,in a meeting,ATL Ops Sup 7,1
+2022-11-09,on call,ATL Ops Sup 5,285
+2022-11-09,on call,ATL Ops Sup 6,196
+2022-11-09,on call,ATL Ops Sup 7,267
+2022-11-09,personal break,ATL Ops Sup 5,9
+2022-11-09,personal break,ATL Ops Sup 6,3
+2022-11-09,personal break,ATL Ops Sup 7,8
+2022-11-09,scheduled break,ATL Ops Sup 5,40
+2022-11-09,scheduled break,ATL Ops Sup 6,32
+2022-11-09,scheduled break,ATL Ops Sup 7,34
+2022-11-09,special assignment,ATL Ops Sup 5,2
+2022-11-09,special assignment,ATL Ops Sup 6,2
+2022-11-09,tc issues,ATL Ops Sup 5,20
+2022-11-09,tc issues,ATL Ops Sup 6,16
+2022-11-09,tc issues,ATL Ops Sup 7,2
+2022-11-10,acw,ATL Ops Sup 5,220
+2022-11-10,acw,ATL Ops Sup 6,294
+2022-11-10,acw,ATL Ops Sup 7,231
+2022-11-10,at a training session,ATL Ops Sup 5,10
+2022-11-10,at a training session,ATL Ops Sup 6,18
+2022-11-10,at a training session,ATL Ops Sup 7,7
+2022-11-10,at lunch,ATL Ops Sup 5,20
+2022-11-10,at lunch,ATL Ops Sup 6,25
+2022-11-10,at lunch,ATL Ops Sup 7,16
+2022-11-10,coaching,ATL Ops Sup 7,1
+2022-11-10,escalation wait,ATL Ops Sup 5,15
+2022-11-10,escalation wait,ATL Ops Sup 6,17
+2022-11-10,escalation wait,ATL Ops Sup 7,8
+2022-11-10,follow up,ATL Ops Sup 5,192
+2022-11-10,follow up,ATL Ops Sup 6,203
+2022-11-10,follow up,ATL Ops Sup 7,193
+2022-11-10,in a meeting,ATL Ops Sup 5,2
+2022-11-10,on call,ATL Ops Sup 5,251
+2022-11-10,on call,ATL Ops Sup 6,285
+2022-11-10,on call,ATL Ops Sup 7,253
+2022-11-10,personal break,ATL Ops Sup 5,4
+2022-11-10,personal break,ATL Ops Sup 6,13
+2022-11-10,personal break,ATL Ops Sup 7,14
+2022-11-10,scheduled break,ATL Ops Sup 5,38
+2022-11-10,scheduled break,ATL Ops Sup 6,39
+2022-11-10,scheduled break,ATL Ops Sup 7,33
+2022-11-10,special assignment,ATL Ops Sup 5,1
+2022-11-10,special assignment,ATL Ops Sup 6,2
+2022-11-10,special assignment,ATL Ops Sup 7,1
+2022-11-10,system issues,ATL Ops Sup 7,1
+2022-11-10,tc issues,ATL Ops Sup 5,6
+2022-11-10,tc issues,ATL Ops Sup 6,31
+2022-11-10,tc issues,ATL Ops Sup 7,4
+2022-11-11,acw,ATL Ops Sup 5,246
+2022-11-11,acw,ATL Ops Sup 6,212
+2022-11-11,acw,ATL Ops Sup 7,262
+2022-11-11,at a training session,ATL Ops Sup 5,11
+2022-11-11,at a training session,ATL Ops Sup 6,10
+2022-11-11,at a training session,ATL Ops Sup 7,7
+2022-11-11,at lunch,ATL Ops Sup 5,23
+2022-11-11,at lunch,ATL Ops Sup 6,14
+2022-11-11,at lunch,ATL Ops Sup 7,18
+2022-11-11,escalation wait,ATL Ops Sup 5,15
+2022-11-11,escalation wait,ATL Ops Sup 6,7
+2022-11-11,escalation wait,ATL Ops Sup 7,16
+2022-11-11,follow up,ATL Ops Sup 5,200
+2022-11-11,follow up,ATL Ops Sup 6,157
+2022-11-11,follow up,ATL Ops Sup 7,215
+2022-11-11,in a meeting,ATL Ops Sup 5,2
+2022-11-11,in a meeting,ATL Ops Sup 7,3
+2022-11-11,on call,ATL Ops Sup 5,273
+2022-11-11,on call,ATL Ops Sup 6,212
+2022-11-11,on call,ATL Ops Sup 7,284
+2022-11-11,personal break,ATL Ops Sup 5,3
+2022-11-11,personal break,ATL Ops Sup 6,7
+2022-11-11,personal break,ATL Ops Sup 7,12
+2022-11-11,scheduled break,ATL Ops Sup 5,39
+2022-11-11,scheduled break,ATL Ops Sup 6,25
+2022-11-11,scheduled break,ATL Ops Sup 7,40
+2022-11-11,special assignment,ATL Ops Sup 5,11
+2022-11-11,special assignment,ATL Ops Sup 7,3
+2022-11-11,tc issues,ATL Ops Sup 5,39
+2022-11-11,tc issues,ATL Ops Sup 6,21
+2022-11-11,tc issues,ATL Ops Sup 7,9
+2022-11-12,acw,ATL Ops Sup 5,70
+2022-11-12,acw,ATL Ops Sup 6,84
+2022-11-12,acw,ATL Ops Sup 7,106
+2022-11-12,at lunch,ATL Ops Sup 5,13
+2022-11-12,at lunch,ATL Ops Sup 6,6
+2022-11-12,at lunch,ATL Ops Sup 7,8
+2022-11-12,escalation wait,ATL Ops Sup 5,6
+2022-11-12,escalation wait,ATL Ops Sup 6,5
+2022-11-12,escalation wait,ATL Ops Sup 7,6
+2022-11-12,follow up,ATL Ops Sup 5,59
+2022-11-12,follow up,ATL Ops Sup 6,63
+2022-11-12,follow up,ATL Ops Sup 7,84
+2022-11-12,on call,ATL Ops Sup 5,78
+2022-11-12,on call,ATL Ops Sup 6,83
+2022-11-12,on call,ATL Ops Sup 7,114
+2022-11-12,personal break,ATL Ops Sup 5,2
+2022-11-12,personal break,ATL Ops Sup 6,4
+2022-11-12,personal break,ATL Ops Sup 7,15
+2022-11-12,scheduled break,ATL Ops Sup 5,20
+2022-11-12,scheduled break,ATL Ops Sup 6,12
+2022-11-12,scheduled break,ATL Ops Sup 7,16
+2022-11-12,special assignment,ATL Ops Sup 5,3
+2022-11-12,system issues,ATL Ops Sup 5,1
+2022-11-12,system issues,ATL Ops Sup 7,1
+2022-11-12,tc issues,ATL Ops Sup 6,11
+2022-11-13,acw,ATL Ops Sup 5,76
+2022-11-13,acw,ATL Ops Sup 6,37
+2022-11-13,acw,ATL Ops Sup 7,105
+2022-11-13,at lunch,ATL Ops Sup 5,17
+2022-11-13,at lunch,ATL Ops Sup 6,3
+2022-11-13,at lunch,ATL Ops Sup 7,8
+2022-11-13,escalation wait,ATL Ops Sup 5,3
+2022-11-13,escalation wait,ATL Ops Sup 6,1
+2022-11-13,escalation wait,ATL Ops Sup 7,2
+2022-11-13,follow up,ATL Ops Sup 5,70
+2022-11-13,follow up,ATL Ops Sup 6,38
+2022-11-13,follow up,ATL Ops Sup 7,66
+2022-11-13,on call,ATL Ops Sup 5,88
+2022-11-13,on call,ATL Ops Sup 6,38
+2022-11-13,on call,ATL Ops Sup 7,89
+2022-11-13,personal break,ATL Ops Sup 5,3
+2022-11-13,personal break,ATL Ops Sup 6,3
+2022-11-13,personal break,ATL Ops Sup 7,3
+2022-11-13,scheduled break,ATL Ops Sup 5,23
+2022-11-13,scheduled break,ATL Ops Sup 6,6
+2022-11-13,scheduled break,ATL Ops Sup 7,16
+2022-11-13,special assignment,ATL Ops Sup 5,2
+2022-11-13,system issues,ATL Ops Sup 5,1
+2022-11-13,tc issues,ATL Ops Sup 5,8
+2022-11-14,acw,ATL Ops Sup 5,227
+2022-11-14,acw,ATL Ops Sup 6,224
+2022-11-14,acw,ATL Ops Sup 7,243
+2022-11-14,at lunch,ATL Ops Sup 5,14
+2022-11-14,at lunch,ATL Ops Sup 6,14
+2022-11-14,at lunch,ATL Ops Sup 7,16
+2022-11-14,coaching,ATL Ops Sup 6,1
+2022-11-14,escalation wait,ATL Ops Sup 5,16
+2022-11-14,escalation wait,ATL Ops Sup 6,36
+2022-11-14,escalation wait,ATL Ops Sup 7,9
+2022-11-14,follow up,ATL Ops Sup 5,176
+2022-11-14,follow up,ATL Ops Sup 6,188
+2022-11-14,follow up,ATL Ops Sup 7,184
+2022-11-14,in a meeting,ATL Ops Sup 5,1
+2022-11-14,in a meeting,ATL Ops Sup 6,5
+2022-11-14,on call,ATL Ops Sup 5,245
+2022-11-14,on call,ATL Ops Sup 6,223
+2022-11-14,on call,ATL Ops Sup 7,251
+2022-11-14,personal break,ATL Ops Sup 5,7
+2022-11-14,personal break,ATL Ops Sup 6,3
+2022-11-14,personal break,ATL Ops Sup 7,11
+2022-11-14,scheduled break,ATL Ops Sup 5,27
+2022-11-14,scheduled break,ATL Ops Sup 6,27
+2022-11-14,scheduled break,ATL Ops Sup 7,29
+2022-11-14,special assignment,ATL Ops Sup 5,1
+2022-11-14,system issues,ATL Ops Sup 7,1
+2022-11-14,tc issues,ATL Ops Sup 5,10
+2022-11-14,tc issues,ATL Ops Sup 6,45
+2022-11-14,tc issues,ATL Ops Sup 7,10
+2022-11-15,acw,ATL Ops Sup 5,238
+2022-11-15,acw,ATL Ops Sup 6,190
+2022-11-15,acw,ATL Ops Sup 7,301
+2022-11-15,at a training session,ATL Ops Sup 5,3
+2022-11-15,at a training session,ATL Ops Sup 6,9
+2022-11-15,at a training session,ATL Ops Sup 7,14
+2022-11-15,at lunch,ATL Ops Sup 5,17
+2022-11-15,at lunch,ATL Ops Sup 6,12
+2022-11-15,at lunch,ATL Ops Sup 7,19
+2022-11-15,coaching,ATL Ops Sup 5,1
+2022-11-15,escalation wait,ATL Ops Sup 5,11
+2022-11-15,escalation wait,ATL Ops Sup 6,10
+2022-11-15,escalation wait,ATL Ops Sup 7,5
+2022-11-15,follow up,ATL Ops Sup 5,194
+2022-11-15,follow up,ATL Ops Sup 6,151
+2022-11-15,follow up,ATL Ops Sup 7,203
+2022-11-15,in a meeting,ATL Ops Sup 5,2
+2022-11-15,in a meeting,ATL Ops Sup 7,3
+2022-11-15,on call,ATL Ops Sup 5,262
+2022-11-15,on call,ATL Ops Sup 6,180
+2022-11-15,on call,ATL Ops Sup 7,313
+2022-11-15,personal break,ATL Ops Sup 5,9
+2022-11-15,personal break,ATL Ops Sup 6,3
+2022-11-15,personal break,ATL Ops Sup 7,15
+2022-11-15,scheduled break,ATL Ops Sup 5,31
+2022-11-15,scheduled break,ATL Ops Sup 6,24
+2022-11-15,scheduled break,ATL Ops Sup 7,36
+2022-11-15,special assignment,ATL Ops Sup 5,1
+2022-11-15,special assignment,ATL Ops Sup 6,1
+2022-11-15,special assignment,ATL Ops Sup 7,1
+2022-11-15,tc issues,ATL Ops Sup 5,6
+2022-11-15,tc issues,ATL Ops Sup 6,13
+2022-11-15,tc issues,ATL Ops Sup 7,13
+2022-11-16,acw,ATL Ops Sup 5,236
+2022-11-16,acw,ATL Ops Sup 6,187
+2022-11-16,acw,ATL Ops Sup 7,197
+2022-11-16,at a training session,ATL Ops Sup 5,6
+2022-11-16,at a training session,ATL Ops Sup 6,8
+2022-11-16,at a training session,ATL Ops Sup 7,6
+2022-11-16,at lunch,ATL Ops Sup 5,21
+2022-11-16,at lunch,ATL Ops Sup 6,14
+2022-11-16,at lunch,ATL Ops Sup 7,14
+2022-11-16,escalation wait,ATL Ops Sup 5,10
+2022-11-16,escalation wait,ATL Ops Sup 6,9
+2022-11-16,escalation wait,ATL Ops Sup 7,6
+2022-11-16,follow up,ATL Ops Sup 5,192
+2022-11-16,follow up,ATL Ops Sup 6,131
+2022-11-16,follow up,ATL Ops Sup 7,142
+2022-11-16,in a meeting,ATL Ops Sup 5,3
+2022-11-16,in a meeting,ATL Ops Sup 6,4
+2022-11-16,on call,ATL Ops Sup 5,259
+2022-11-16,on call,ATL Ops Sup 6,180
+2022-11-16,on call,ATL Ops Sup 7,209
+2022-11-16,personal break,ATL Ops Sup 5,7
+2022-11-16,personal break,ATL Ops Sup 6,3
+2022-11-16,personal break,ATL Ops Sup 7,10
+2022-11-16,scheduled break,ATL Ops Sup 5,35
+2022-11-16,scheduled break,ATL Ops Sup 6,27
+2022-11-16,scheduled break,ATL Ops Sup 7,29
+2022-11-16,special assignment,ATL Ops Sup 5,5
+2022-11-16,special assignment,ATL Ops Sup 6,2
+2022-11-16,system issues,ATL Ops Sup 5,1
+2022-11-16,system issues,ATL Ops Sup 6,4
+2022-11-16,tc issues,ATL Ops Sup 5,15
+2022-11-16,tc issues,ATL Ops Sup 6,10
+2022-11-16,tc issues,ATL Ops Sup 7,9
+2022-11-17,acw,ATL Ops Sup 5,222
+2022-11-17,acw,ATL Ops Sup 6,281
+2022-11-17,acw,ATL Ops Sup 7,223
+2022-11-17,at a training session,ATL Ops Sup 5,3
+2022-11-17,at a training session,ATL Ops Sup 6,9
+2022-11-17,at lunch,ATL Ops Sup 5,18
+2022-11-17,at lunch,ATL Ops Sup 6,21
+2022-11-17,at lunch,ATL Ops Sup 7,15
+2022-11-17,coaching,ATL Ops Sup 5,1
+2022-11-17,escalation wait,ATL Ops Sup 5,17
+2022-11-17,escalation wait,ATL Ops Sup 6,30
+2022-11-17,escalation wait,ATL Ops Sup 7,9
+2022-11-17,follow up,ATL Ops Sup 5,192
+2022-11-17,follow up,ATL Ops Sup 6,201
+2022-11-17,follow up,ATL Ops Sup 7,158
+2022-11-17,in a meeting,ATL Ops Sup 5,1
+2022-11-17,in a meeting,ATL Ops Sup 7,3
+2022-11-17,on call,ATL Ops Sup 5,241
+2022-11-17,on call,ATL Ops Sup 6,269
+2022-11-17,on call,ATL Ops Sup 7,234
+2022-11-17,personal break,ATL Ops Sup 5,4
+2022-11-17,personal break,ATL Ops Sup 6,5
+2022-11-17,personal break,ATL Ops Sup 7,13
+2022-11-17,scheduled break,ATL Ops Sup 5,37
+2022-11-17,scheduled break,ATL Ops Sup 6,33
+2022-11-17,scheduled break,ATL Ops Sup 7,32
+2022-11-17,special assignment,ATL Ops Sup 5,5
+2022-11-17,special assignment,ATL Ops Sup 6,4
+2022-11-17,tc issues,ATL Ops Sup 5,8
+2022-11-17,tc issues,ATL Ops Sup 6,12
+2022-11-17,tc issues,ATL Ops Sup 7,9
+2022-11-18,acw,ATL Ops Sup 5,250
+2022-11-18,acw,ATL Ops Sup 6,220
+2022-11-18,acw,ATL Ops Sup 7,330
+2022-11-18,at lunch,ATL Ops Sup 5,19
+2022-11-18,at lunch,ATL Ops Sup 6,12
+2022-11-18,at lunch,ATL Ops Sup 7,20
+2022-11-18,coaching,ATL Ops Sup 5,1
+2022-11-18,escalation wait,ATL Ops Sup 5,26
+2022-11-18,escalation wait,ATL Ops Sup 6,18
+2022-11-18,escalation wait,ATL Ops Sup 7,8
+2022-11-18,follow up,ATL Ops Sup 5,151
+2022-11-18,follow up,ATL Ops Sup 6,166
+2022-11-18,follow up,ATL Ops Sup 7,222
+2022-11-18,in a meeting,ATL Ops Sup 5,1
+2022-11-18,on call,ATL Ops Sup 5,257
+2022-11-18,on call,ATL Ops Sup 6,218
+2022-11-18,on call,ATL Ops Sup 7,354
+2022-11-18,personal break,ATL Ops Sup 5,8
+2022-11-18,personal break,ATL Ops Sup 6,1
+2022-11-18,personal break,ATL Ops Sup 7,14
+2022-11-18,scheduled break,ATL Ops Sup 5,36
+2022-11-18,scheduled break,ATL Ops Sup 6,23
+2022-11-18,scheduled break,ATL Ops Sup 7,42
+2022-11-18,special assignment,ATL Ops Sup 5,5
+2022-11-18,system issues,ATL Ops Sup 6,2
+2022-11-18,tc issues,ATL Ops Sup 5,10
+2022-11-18,tc issues,ATL Ops Sup 6,20
+2022-11-18,tc issues,ATL Ops Sup 7,16
+2022-11-19,acw,ATL Ops Sup 5,75
+2022-11-19,acw,ATL Ops Sup 6,112
+2022-11-19,acw,ATL Ops Sup 7,140
+2022-11-19,at lunch,ATL Ops Sup 5,11
+2022-11-19,at lunch,ATL Ops Sup 6,11
+2022-11-19,at lunch,ATL Ops Sup 7,10
+2022-11-19,coaching,ATL Ops Sup 6,2
+2022-11-19,escalation wait,ATL Ops Sup 5,2
+2022-11-19,escalation wait,ATL Ops Sup 6,2
+2022-11-19,escalation wait,ATL Ops Sup 7,5
+2022-11-19,follow up,ATL Ops Sup 5,58
+2022-11-19,follow up,ATL Ops Sup 6,79
+2022-11-19,follow up,ATL Ops Sup 7,99
+2022-11-19,on call,ATL Ops Sup 5,88
+2022-11-19,on call,ATL Ops Sup 6,118
+2022-11-19,on call,ATL Ops Sup 7,140
+2022-11-19,personal break,ATL Ops Sup 5,4
+2022-11-19,personal break,ATL Ops Sup 6,6
+2022-11-19,personal break,ATL Ops Sup 7,16
+2022-11-19,scheduled break,ATL Ops Sup 5,15
+2022-11-19,scheduled break,ATL Ops Sup 6,17
+2022-11-19,scheduled break,ATL Ops Sup 7,19
+2022-11-19,special assignment,ATL Ops Sup 5,4
+2022-11-19,special assignment,ATL Ops Sup 6,1
+2022-11-19,tc issues,ATL Ops Sup 5,11
+2022-11-19,tc issues,ATL Ops Sup 6,16
+2022-11-19,tc issues,ATL Ops Sup 7,5
+2022-11-20,acw,ATL Ops Sup 5,69
+2022-11-20,acw,ATL Ops Sup 6,48
+2022-11-20,acw,ATL Ops Sup 7,92
+2022-11-20,at a training session,ATL Ops Sup 5,1
+2022-11-20,at a training session,ATL Ops Sup 7,1
+2022-11-20,at lunch,ATL Ops Sup 5,13
+2022-11-20,at lunch,ATL Ops Sup 6,4
+2022-11-20,at lunch,ATL Ops Sup 7,7
+2022-11-20,coaching,ATL Ops Sup 6,1
+2022-11-20,escalation wait,ATL Ops Sup 6,2
+2022-11-20,escalation wait,ATL Ops Sup 7,2
+2022-11-20,follow up,ATL Ops Sup 5,48
+2022-11-20,follow up,ATL Ops Sup 6,37
+2022-11-20,follow up,ATL Ops Sup 7,54
+2022-11-20,on call,ATL Ops Sup 5,72
+2022-11-20,on call,ATL Ops Sup 6,49
+2022-11-20,on call,ATL Ops Sup 7,82
+2022-11-20,personal break,ATL Ops Sup 5,7
+2022-11-20,personal break,ATL Ops Sup 6,3
+2022-11-20,personal break,ATL Ops Sup 7,8
+2022-11-20,scheduled break,ATL Ops Sup 5,22
+2022-11-20,scheduled break,ATL Ops Sup 6,8
+2022-11-20,scheduled break,ATL Ops Sup 7,16
+2022-11-20,special assignment,ATL Ops Sup 5,7
+2022-11-20,special assignment,ATL Ops Sup 7,1
+2022-11-21,acw,ATL Ops Sup 5,230
+2022-11-21,acw,ATL Ops Sup 6,253
+2022-11-21,acw,ATL Ops Sup 7,328
+2022-11-21,at lunch,ATL Ops Sup 5,12
+2022-11-21,at lunch,ATL Ops Sup 6,12
+2022-11-21,at lunch,ATL Ops Sup 7,17
+2022-11-21,coaching,ATL Ops Sup 7,2
+2022-11-21,escalation wait,ATL Ops Sup 5,9
+2022-11-21,escalation wait,ATL Ops Sup 6,23
+2022-11-21,escalation wait,ATL Ops Sup 7,17
+2022-11-21,follow up,ATL Ops Sup 5,168
+2022-11-21,follow up,ATL Ops Sup 6,170
+2022-11-21,follow up,ATL Ops Sup 7,225
+2022-11-21,in a meeting,ATL Ops Sup 7,3
+2022-11-21,on call,ATL Ops Sup 5,238
+2022-11-21,on call,ATL Ops Sup 6,249
+2022-11-21,on call,ATL Ops Sup 7,336
+2022-11-21,personal break,ATL Ops Sup 5,7
+2022-11-21,personal break,ATL Ops Sup 6,7
+2022-11-21,personal break,ATL Ops Sup 7,8
+2022-11-21,scheduled break,ATL Ops Sup 5,31
+2022-11-21,scheduled break,ATL Ops Sup 6,30
+2022-11-21,scheduled break,ATL Ops Sup 7,32
+2022-11-21,special assignment,ATL Ops Sup 6,1
+2022-11-21,tc issues,ATL Ops Sup 5,6
+2022-11-21,tc issues,ATL Ops Sup 6,21
+2022-11-21,tc issues,ATL Ops Sup 7,13
+2022-11-22,acw,ATL Ops Sup 5,216
+2022-11-22,acw,ATL Ops Sup 6,257
+2022-11-22,acw,ATL Ops Sup 7,293
+2022-11-22,at a training session,ATL Ops Sup 6,1
+2022-11-22,at lunch,ATL Ops Sup 5,16
+2022-11-22,at lunch,ATL Ops Sup 6,15
+2022-11-22,at lunch,ATL Ops Sup 7,18
+2022-11-22,escalation wait,ATL Ops Sup 5,21
+2022-11-22,escalation wait,ATL Ops Sup 6,18
+2022-11-22,escalation wait,ATL Ops Sup 7,15
+2022-11-22,follow up,ATL Ops Sup 5,175
+2022-11-22,follow up,ATL Ops Sup 6,175
+2022-11-22,follow up,ATL Ops Sup 7,183
+2022-11-22,in a meeting,ATL Ops Sup 5,3
+2022-11-22,in a meeting,ATL Ops Sup 7,2
+2022-11-22,on call,ATL Ops Sup 5,247
+2022-11-22,on call,ATL Ops Sup 6,240
+2022-11-22,on call,ATL Ops Sup 7,295
+2022-11-22,personal break,ATL Ops Sup 5,10
+2022-11-22,personal break,ATL Ops Sup 6,9
+2022-11-22,personal break,ATL Ops Sup 7,10
+2022-11-22,scheduled break,ATL Ops Sup 5,37
+2022-11-22,scheduled break,ATL Ops Sup 6,27
+2022-11-22,scheduled break,ATL Ops Sup 7,33
+2022-11-22,special assignment,ATL Ops Sup 5,1
+2022-11-22,special assignment,ATL Ops Sup 6,1
+2022-11-22,system issues,ATL Ops Sup 5,3
+2022-11-22,tc issues,ATL Ops Sup 5,26
+2022-11-22,tc issues,ATL Ops Sup 6,8
+2022-11-22,tc issues,ATL Ops Sup 7,24
+2022-11-23,acw,ATL Ops Sup 5,201
+2022-11-23,acw,ATL Ops Sup 6,207
+2022-11-23,acw,ATL Ops Sup 7,168
+2022-11-23,at lunch,ATL Ops Sup 5,15
+2022-11-23,at lunch,ATL Ops Sup 6,14
+2022-11-23,at lunch,ATL Ops Sup 7,10
+2022-11-23,coaching,ATL Ops Sup 7,1
+2022-11-23,escalation wait,ATL Ops Sup 5,18
+2022-11-23,escalation wait,ATL Ops Sup 6,15
+2022-11-23,escalation wait,ATL Ops Sup 7,12
+2022-11-23,follow up,ATL Ops Sup 5,172
+2022-11-23,follow up,ATL Ops Sup 6,163
+2022-11-23,follow up,ATL Ops Sup 7,117
+2022-11-23,in a meeting,ATL Ops Sup 5,2
+2022-11-23,in a meeting,ATL Ops Sup 7,1
+2022-11-23,on call,ATL Ops Sup 5,238
+2022-11-23,on call,ATL Ops Sup 6,202
+2022-11-23,on call,ATL Ops Sup 7,173
+2022-11-23,personal break,ATL Ops Sup 5,8
+2022-11-23,personal break,ATL Ops Sup 6,9
+2022-11-23,personal break,ATL Ops Sup 7,5
+2022-11-23,scheduled break,ATL Ops Sup 5,29
+2022-11-23,scheduled break,ATL Ops Sup 6,26
+2022-11-23,scheduled break,ATL Ops Sup 7,24
+2022-11-23,special assignment,ATL Ops Sup 5,1
+2022-11-23,special assignment,ATL Ops Sup 6,1
+2022-11-23,tc issues,ATL Ops Sup 5,16
+2022-11-23,tc issues,ATL Ops Sup 6,9
+2022-11-23,tc issues,ATL Ops Sup 7,9
+2022-11-24,acw,ATL Ops Sup 5,31
+2022-11-24,acw,ATL Ops Sup 6,20
+2022-11-24,acw,ATL Ops Sup 7,53
+2022-11-24,at lunch,ATL Ops Sup 5,8
+2022-11-24,at lunch,ATL Ops Sup 6,4
+2022-11-24,at lunch,ATL Ops Sup 7,7
+2022-11-24,escalation wait,ATL Ops Sup 5,1
+2022-11-24,escalation wait,ATL Ops Sup 6,1
+2022-11-24,escalation wait,ATL Ops Sup 7,5
+2022-11-24,follow up,ATL Ops Sup 5,43
+2022-11-24,follow up,ATL Ops Sup 6,24
+2022-11-24,follow up,ATL Ops Sup 7,33
+2022-11-24,on call,ATL Ops Sup 5,54
+2022-11-24,on call,ATL Ops Sup 6,27
+2022-11-24,on call,ATL Ops Sup 7,43
+2022-11-24,personal break,ATL Ops Sup 5,5
+2022-11-24,personal break,ATL Ops Sup 6,6
+2022-11-24,personal break,ATL Ops Sup 7,7
+2022-11-24,scheduled break,ATL Ops Sup 5,12
+2022-11-24,scheduled break,ATL Ops Sup 6,12
+2022-11-24,scheduled break,ATL Ops Sup 7,17
+2022-11-24,special assignment,ATL Ops Sup 5,3
+2022-11-24,special assignment,ATL Ops Sup 6,1
+2022-11-24,tc issues,ATL Ops Sup 6,6
+2022-11-24,tc issues,ATL Ops Sup 7,1
+2022-11-25,acw,ATL Ops Sup 5,75
+2022-11-25,acw,ATL Ops Sup 6,80
+2022-11-25,acw,ATL Ops Sup 7,151
+2022-11-25,at lunch,ATL Ops Sup 5,8
+2022-11-25,at lunch,ATL Ops Sup 6,6
+2022-11-25,at lunch,ATL Ops Sup 7,12
+2022-11-25,escalation wait,ATL Ops Sup 5,3
+2022-11-25,escalation wait,ATL Ops Sup 6,4
+2022-11-25,escalation wait,ATL Ops Sup 7,9
+2022-11-25,follow up,ATL Ops Sup 5,82
+2022-11-25,follow up,ATL Ops Sup 6,65
+2022-11-25,follow up,ATL Ops Sup 7,108
+2022-11-25,in a meeting,ATL Ops Sup 5,1
+2022-11-25,on call,ATL Ops Sup 5,92
+2022-11-25,on call,ATL Ops Sup 6,87
+2022-11-25,on call,ATL Ops Sup 7,161
+2022-11-25,personal break,ATL Ops Sup 5,5
+2022-11-25,personal break,ATL Ops Sup 6,13
+2022-11-25,personal break,ATL Ops Sup 7,10
+2022-11-25,scheduled break,ATL Ops Sup 5,17
+2022-11-25,scheduled break,ATL Ops Sup 6,12
+2022-11-25,scheduled break,ATL Ops Sup 7,27
+2022-11-25,system issues,ATL Ops Sup 6,4
+2022-11-25,tc issues,ATL Ops Sup 5,4
+2022-11-25,tc issues,ATL Ops Sup 6,8
+2022-11-26,acw,ATL Ops Sup 5,58
+2022-11-26,acw,ATL Ops Sup 6,79
+2022-11-26,acw,ATL Ops Sup 7,87
+2022-11-26,at lunch,ATL Ops Sup 5,8
+2022-11-26,at lunch,ATL Ops Sup 6,7
+2022-11-26,at lunch,ATL Ops Sup 7,8
+2022-11-26,escalation wait,ATL Ops Sup 5,4
+2022-11-26,escalation wait,ATL Ops Sup 6,3
+2022-11-26,escalation wait,ATL Ops Sup 7,5
+2022-11-26,follow up,ATL Ops Sup 5,49
+2022-11-26,follow up,ATL Ops Sup 6,73
+2022-11-26,follow up,ATL Ops Sup 7,60
+2022-11-26,on call,ATL Ops Sup 5,69
+2022-11-26,on call,ATL Ops Sup 6,89
+2022-11-26,on call,ATL Ops Sup 7,91
+2022-11-26,personal break,ATL Ops Sup 5,3
+2022-11-26,personal break,ATL Ops Sup 6,3
+2022-11-26,personal break,ATL Ops Sup 7,9
+2022-11-26,scheduled break,ATL Ops Sup 5,10
+2022-11-26,scheduled break,ATL Ops Sup 6,12
+2022-11-26,scheduled break,ATL Ops Sup 7,14
+2022-11-26,special assignment,ATL Ops Sup 6,1
+2022-11-26,tc issues,ATL Ops Sup 5,8
+2022-11-26,tc issues,ATL Ops Sup 6,1
+2022-11-27,acw,ATL Ops Sup 5,55
+2022-11-27,acw,ATL Ops Sup 6,47
+2022-11-27,acw,ATL Ops Sup 7,113
+2022-11-27,at lunch,ATL Ops Sup 5,6
+2022-11-27,at lunch,ATL Ops Sup 6,4
+2022-11-27,at lunch,ATL Ops Sup 7,10
+2022-11-27,escalation wait,ATL Ops Sup 5,4
+2022-11-27,escalation wait,ATL Ops Sup 6,3
+2022-11-27,escalation wait,ATL Ops Sup 7,4
+2022-11-27,follow up,ATL Ops Sup 5,46
+2022-11-27,follow up,ATL Ops Sup 6,43
+2022-11-27,follow up,ATL Ops Sup 7,67
+2022-11-27,on call,ATL Ops Sup 5,63
+2022-11-27,on call,ATL Ops Sup 6,56
+2022-11-27,on call,ATL Ops Sup 7,98
+2022-11-27,personal break,ATL Ops Sup 5,5
+2022-11-27,personal break,ATL Ops Sup 6,2
+2022-11-27,personal break,ATL Ops Sup 7,8
+2022-11-27,scheduled break,ATL Ops Sup 5,13
+2022-11-27,scheduled break,ATL Ops Sup 6,9
+2022-11-27,scheduled break,ATL Ops Sup 7,16
+2022-11-27,system issues,ATL Ops Sup 5,1
+2022-11-27,system issues,ATL Ops Sup 7,1
+2022-11-28,acw,ATL Ops Sup 5,175
+2022-11-28,acw,ATL Ops Sup 6,235
+2022-11-28,acw,ATL Ops Sup 7,323
+2022-11-28,at a training session,ATL Ops Sup 6,1
+2022-11-28,at lunch,ATL Ops Sup 5,12
+2022-11-28,at lunch,ATL Ops Sup 6,11
+2022-11-28,at lunch,ATL Ops Sup 7,14
+2022-11-28,coaching,ATL Ops Sup 6,1
+2022-11-28,escalation wait,ATL Ops Sup 5,17
+2022-11-28,escalation wait,ATL Ops Sup 6,16
+2022-11-28,escalation wait,ATL Ops Sup 7,14
+2022-11-28,follow up,ATL Ops Sup 5,136
+2022-11-28,follow up,ATL Ops Sup 6,167
+2022-11-28,follow up,ATL Ops Sup 7,195
+2022-11-28,in a meeting,ATL Ops Sup 5,1
+2022-11-28,in a meeting,ATL Ops Sup 7,2
+2022-11-28,on call,ATL Ops Sup 5,206
+2022-11-28,on call,ATL Ops Sup 6,237
+2022-11-28,on call,ATL Ops Sup 7,326
+2022-11-28,personal break,ATL Ops Sup 5,4
+2022-11-28,personal break,ATL Ops Sup 6,3
+2022-11-28,personal break,ATL Ops Sup 7,5
+2022-11-28,scheduled break,ATL Ops Sup 5,22
+2022-11-28,scheduled break,ATL Ops Sup 6,21
+2022-11-28,scheduled break,ATL Ops Sup 7,30
+2022-11-28,tc issues,ATL Ops Sup 5,11
+2022-11-28,tc issues,ATL Ops Sup 6,12
+2022-11-28,tc issues,ATL Ops Sup 7,6
+2022-11-29,acw,ATL Ops Sup 5,239
+2022-11-29,acw,ATL Ops Sup 6,216
+2022-11-29,acw,ATL Ops Sup 7,322
+2022-11-29,at lunch,ATL Ops Sup 5,23
+2022-11-29,at lunch,ATL Ops Sup 6,12
+2022-11-29,at lunch,ATL Ops Sup 7,23
+2022-11-29,escalation wait,ATL Ops Sup 5,25
+2022-11-29,escalation wait,ATL Ops Sup 6,15
+2022-11-29,escalation wait,ATL Ops Sup 7,18
+2022-11-29,follow up,ATL Ops Sup 5,198
+2022-11-29,follow up,ATL Ops Sup 6,152
+2022-11-29,follow up,ATL Ops Sup 7,240
+2022-11-29,in a meeting,ATL Ops Sup 6,1
+2022-11-29,in a meeting,ATL Ops Sup 7,2
+2022-11-29,on call,ATL Ops Sup 5,268
+2022-11-29,on call,ATL Ops Sup 6,195
+2022-11-29,on call,ATL Ops Sup 7,338
+2022-11-29,personal break,ATL Ops Sup 5,8
+2022-11-29,personal break,ATL Ops Sup 6,6
+2022-11-29,personal break,ATL Ops Sup 7,11
+2022-11-29,scheduled break,ATL Ops Sup 5,32
+2022-11-29,scheduled break,ATL Ops Sup 6,24
+2022-11-29,scheduled break,ATL Ops Sup 7,38
+2022-11-29,special assignment,ATL Ops Sup 5,5
+2022-11-29,special assignment,ATL Ops Sup 6,1
+2022-11-29,system issues,ATL Ops Sup 5,1
+2022-11-29,system issues,ATL Ops Sup 7,1
+2022-11-29,tc issues,ATL Ops Sup 5,17
+2022-11-29,tc issues,ATL Ops Sup 7,15
+2022-11-30,acw,ATL Ops Sup 5,242
+2022-11-30,acw,ATL Ops Sup 6,213
+2022-11-30,acw,ATL Ops Sup 7,218
+2022-11-30,at lunch,ATL Ops Sup 5,17
+2022-11-30,at lunch,ATL Ops Sup 6,15
+2022-11-30,at lunch,ATL Ops Sup 7,18
+2022-11-30,escalation wait,ATL Ops Sup 5,14
+2022-11-30,escalation wait,ATL Ops Sup 6,24
+2022-11-30,escalation wait,ATL Ops Sup 7,7
+2022-11-30,follow up,ATL Ops Sup 5,205
+2022-11-30,follow up,ATL Ops Sup 6,169
+2022-11-30,follow up,ATL Ops Sup 7,192
+2022-11-30,in a meeting,ATL Ops Sup 5,3
+2022-11-30,in a meeting,ATL Ops Sup 7,1
+2022-11-30,on call,ATL Ops Sup 5,261
+2022-11-30,on call,ATL Ops Sup 6,217
+2022-11-30,on call,ATL Ops Sup 7,258
+2022-11-30,personal break,ATL Ops Sup 5,11
+2022-11-30,personal break,ATL Ops Sup 6,4
+2022-11-30,personal break,ATL Ops Sup 7,4
+2022-11-30,scheduled break,ATL Ops Sup 5,39
+2022-11-30,scheduled break,ATL Ops Sup 6,29
+2022-11-30,scheduled break,ATL Ops Sup 7,28
+2022-11-30,special assignment,ATL Ops Sup 5,3
+2022-11-30,special assignment,ATL Ops Sup 6,4
+2022-11-30,tc issues,ATL Ops Sup 5,18
+2022-11-30,tc issues,ATL Ops Sup 6,21
+2022-11-30,tc issues,ATL Ops Sup 7,13
+2022-12-01,acw,ATL Ops Sup 5,221
+2022-12-01,acw,ATL Ops Sup 6,287
+2022-12-01,acw,ATL Ops Sup 7,228
+2022-12-01,at a training session,ATL Ops Sup 5,1
+2022-12-01,at a training session,ATL Ops Sup 6,1
+2022-12-01,at a training session,ATL Ops Sup 7,1
+2022-12-01,at lunch,ATL Ops Sup 5,19
+2022-12-01,at lunch,ATL Ops Sup 6,20
+2022-12-01,at lunch,ATL Ops Sup 7,13
+2022-12-01,escalation wait,ATL Ops Sup 5,9
+2022-12-01,escalation wait,ATL Ops Sup 6,20
+2022-12-01,escalation wait,ATL Ops Sup 7,5
+2022-12-01,follow up,ATL Ops Sup 5,214
+2022-12-01,follow up,ATL Ops Sup 6,198
+2022-12-01,follow up,ATL Ops Sup 7,168
+2022-12-01,in a meeting,ATL Ops Sup 5,2
+2022-12-01,in a meeting,ATL Ops Sup 6,4
+2022-12-01,in a meeting,ATL Ops Sup 7,1
+2022-12-01,on call,ATL Ops Sup 5,263
+2022-12-01,on call,ATL Ops Sup 6,283
+2022-12-01,on call,ATL Ops Sup 7,255
+2022-12-01,personal break,ATL Ops Sup 5,8
+2022-12-01,personal break,ATL Ops Sup 6,6
+2022-12-01,personal break,ATL Ops Sup 7,9
+2022-12-01,scheduled break,ATL Ops Sup 5,41
+2022-12-01,scheduled break,ATL Ops Sup 6,33
+2022-12-01,scheduled break,ATL Ops Sup 7,32
+2022-12-01,special assignment,ATL Ops Sup 5,1
+2022-12-01,special assignment,ATL Ops Sup 6,3
+2022-12-01,tc issues,ATL Ops Sup 5,8
+2022-12-01,tc issues,ATL Ops Sup 6,27
+2022-12-01,tc issues,ATL Ops Sup 7,8
+2022-12-02,acw,ATL Ops Sup 5,172
+2022-12-02,acw,ATL Ops Sup 6,224
+2022-12-02,acw,ATL Ops Sup 7,356
+2022-12-02,at lunch,ATL Ops Sup 5,16
+2022-12-02,at lunch,ATL Ops Sup 6,13
+2022-12-02,at lunch,ATL Ops Sup 7,19
+2022-12-02,coaching,ATL Ops Sup 5,1
+2022-12-02,escalation wait,ATL Ops Sup 5,25
+2022-12-02,escalation wait,ATL Ops Sup 6,19
+2022-12-02,escalation wait,ATL Ops Sup 7,20
+2022-12-02,follow up,ATL Ops Sup 5,162
+2022-12-02,follow up,ATL Ops Sup 6,175
+2022-12-02,follow up,ATL Ops Sup 7,270
+2022-12-02,in a meeting,ATL Ops Sup 5,8
+2022-12-02,on call,ATL Ops Sup 5,222
+2022-12-02,on call,ATL Ops Sup 6,228
+2022-12-02,on call,ATL Ops Sup 7,377
+2022-12-02,personal break,ATL Ops Sup 5,3
+2022-12-02,personal break,ATL Ops Sup 6,9
+2022-12-02,personal break,ATL Ops Sup 7,11
+2022-12-02,scheduled break,ATL Ops Sup 5,30
+2022-12-02,scheduled break,ATL Ops Sup 6,29
+2022-12-02,scheduled break,ATL Ops Sup 7,42
+2022-12-02,special assignment,ATL Ops Sup 5,1
+2022-12-02,special assignment,ATL Ops Sup 6,4
+2022-12-02,special assignment,ATL Ops Sup 7,1
+2022-12-02,tc issues,ATL Ops Sup 5,26
+2022-12-02,tc issues,ATL Ops Sup 6,4
+2022-12-02,tc issues,ATL Ops Sup 7,22
+2022-12-03,acw,ATL Ops Sup 5,78
+2022-12-03,acw,ATL Ops Sup 6,115
+2022-12-03,acw,ATL Ops Sup 7,133
+2022-12-03,at lunch,ATL Ops Sup 5,11
+2022-12-03,at lunch,ATL Ops Sup 6,10
+2022-12-03,at lunch,ATL Ops Sup 7,8
+2022-12-03,escalation wait,ATL Ops Sup 5,7
+2022-12-03,escalation wait,ATL Ops Sup 6,6
+2022-12-03,escalation wait,ATL Ops Sup 7,5
+2022-12-03,follow up,ATL Ops Sup 5,76
+2022-12-03,follow up,ATL Ops Sup 6,84
+2022-12-03,follow up,ATL Ops Sup 7,102
+2022-12-03,on call,ATL Ops Sup 5,90
+2022-12-03,on call,ATL Ops Sup 6,119
+2022-12-03,on call,ATL Ops Sup 7,127
+2022-12-03,personal break,ATL Ops Sup 5,1
+2022-12-03,personal break,ATL Ops Sup 6,11
+2022-12-03,personal break,ATL Ops Sup 7,7
+2022-12-03,scheduled break,ATL Ops Sup 5,15
+2022-12-03,scheduled break,ATL Ops Sup 6,18
+2022-12-03,scheduled break,ATL Ops Sup 7,18
+2022-12-03,special assignment,ATL Ops Sup 6,2
+2022-12-03,system issues,ATL Ops Sup 5,1
+2022-12-03,system issues,ATL Ops Sup 7,1
+2022-12-03,tc issues,ATL Ops Sup 7,7
+2022-12-04,acw,ATL Ops Sup 5,79
+2022-12-04,acw,ATL Ops Sup 6,53
+2022-12-04,acw,ATL Ops Sup 7,130
+2022-12-04,at lunch,ATL Ops Sup 5,12
+2022-12-04,at lunch,ATL Ops Sup 6,4
+2022-12-04,at lunch,ATL Ops Sup 7,7
+2022-12-04,escalation wait,ATL Ops Sup 5,5
+2022-12-04,escalation wait,ATL Ops Sup 7,4
+2022-12-04,follow up,ATL Ops Sup 5,70
+2022-12-04,follow up,ATL Ops Sup 6,46
+2022-12-04,follow up,ATL Ops Sup 7,71
+2022-12-04,on call,ATL Ops Sup 5,94
+2022-12-04,on call,ATL Ops Sup 6,59
+2022-12-04,on call,ATL Ops Sup 7,121
+2022-12-04,personal break,ATL Ops Sup 5,2
+2022-12-04,personal break,ATL Ops Sup 6,3
+2022-12-04,personal break,ATL Ops Sup 7,6
+2022-12-04,scheduled break,ATL Ops Sup 5,18
+2022-12-04,scheduled break,ATL Ops Sup 6,8
+2022-12-04,scheduled break,ATL Ops Sup 7,17
+2022-12-04,special assignment,ATL Ops Sup 7,1
+2022-12-04,tc issues,ATL Ops Sup 5,1
+2022-12-05,acw,ATL Ops Sup 5,190
+2022-12-05,acw,ATL Ops Sup 6,219
+2022-12-05,acw,ATL Ops Sup 7,300
+2022-12-05,at a training session,ATL Ops Sup 7,1
+2022-12-05,at lunch,ATL Ops Sup 5,14
+2022-12-05,at lunch,ATL Ops Sup 6,13
+2022-12-05,at lunch,ATL Ops Sup 7,18
+2022-12-05,escalation wait,ATL Ops Sup 5,13
+2022-12-05,escalation wait,ATL Ops Sup 6,11
+2022-12-05,escalation wait,ATL Ops Sup 7,9
+2022-12-05,follow up,ATL Ops Sup 5,164
+2022-12-05,follow up,ATL Ops Sup 6,154
+2022-12-05,follow up,ATL Ops Sup 7,191
+2022-12-05,in a meeting,ATL Ops Sup 5,1
+2022-12-05,in a meeting,ATL Ops Sup 7,2
+2022-12-05,on call,ATL Ops Sup 5,225
+2022-12-05,on call,ATL Ops Sup 6,227
+2022-12-05,on call,ATL Ops Sup 7,304
+2022-12-05,personal break,ATL Ops Sup 5,6
+2022-12-05,personal break,ATL Ops Sup 6,3
+2022-12-05,personal break,ATL Ops Sup 7,6
+2022-12-05,scheduled break,ATL Ops Sup 5,25
+2022-12-05,scheduled break,ATL Ops Sup 6,25
+2022-12-05,scheduled break,ATL Ops Sup 7,31
+2022-12-05,special assignment,ATL Ops Sup 5,1
+2022-12-05,tc issues,ATL Ops Sup 5,14
+2022-12-05,tc issues,ATL Ops Sup 6,6
+2022-12-05,tc issues,ATL Ops Sup 7,7
+2022-12-06,acw,ATL Ops Sup 5,196
+2022-12-06,acw,ATL Ops Sup 6,281
+2022-12-06,acw,ATL Ops Sup 7,313
+2022-12-06,at lunch,ATL Ops Sup 5,15
+2022-12-06,at lunch,ATL Ops Sup 6,17
+2022-12-06,at lunch,ATL Ops Sup 7,20
+2022-12-06,escalation wait,ATL Ops Sup 5,15
+2022-12-06,escalation wait,ATL Ops Sup 6,17
+2022-12-06,escalation wait,ATL Ops Sup 7,23
+2022-12-06,follow up,ATL Ops Sup 5,172
+2022-12-06,follow up,ATL Ops Sup 6,191
+2022-12-06,follow up,ATL Ops Sup 7,219
+2022-12-06,in a meeting,ATL Ops Sup 5,2
+2022-12-06,in a meeting,ATL Ops Sup 6,1
+2022-12-06,in a meeting,ATL Ops Sup 7,2
+2022-12-06,on call,ATL Ops Sup 5,227
+2022-12-06,on call,ATL Ops Sup 6,279
+2022-12-06,on call,ATL Ops Sup 7,320
+2022-12-06,personal break,ATL Ops Sup 5,6
+2022-12-06,personal break,ATL Ops Sup 6,7
+2022-12-06,personal break,ATL Ops Sup 7,12
+2022-12-06,scheduled break,ATL Ops Sup 5,25
+2022-12-06,scheduled break,ATL Ops Sup 6,32
+2022-12-06,scheduled break,ATL Ops Sup 7,34
+2022-12-06,special assignment,ATL Ops Sup 5,3
+2022-12-06,special assignment,ATL Ops Sup 6,2
+2022-12-06,tc issues,ATL Ops Sup 5,5
+2022-12-06,tc issues,ATL Ops Sup 6,15
+2022-12-06,tc issues,ATL Ops Sup 7,13
+2022-12-07,acw,ATL Ops Sup 5,261
+2022-12-07,acw,ATL Ops Sup 6,254
+2022-12-07,acw,ATL Ops Sup 7,221
+2022-12-07,at lunch,ATL Ops Sup 5,18
+2022-12-07,at lunch,ATL Ops Sup 6,14
+2022-12-07,at lunch,ATL Ops Sup 7,12
+2022-12-07,escalation wait,ATL Ops Sup 5,15
+2022-12-07,escalation wait,ATL Ops Sup 6,14
+2022-12-07,escalation wait,ATL Ops Sup 7,6
+2022-12-07,follow up,ATL Ops Sup 5,237
+2022-12-07,follow up,ATL Ops Sup 6,200
+2022-12-07,follow up,ATL Ops Sup 7,168
+2022-12-07,in a meeting,ATL Ops Sup 6,2
+2022-12-07,on call,ATL Ops Sup 5,294
+2022-12-07,on call,ATL Ops Sup 6,258
+2022-12-07,on call,ATL Ops Sup 7,232
+2022-12-07,personal break,ATL Ops Sup 5,6
+2022-12-07,personal break,ATL Ops Sup 6,5
+2022-12-07,personal break,ATL Ops Sup 7,4
+2022-12-07,scheduled break,ATL Ops Sup 5,33
+2022-12-07,scheduled break,ATL Ops Sup 6,28
+2022-12-07,scheduled break,ATL Ops Sup 7,26
+2022-12-07,special assignment,ATL Ops Sup 5,5
+2022-12-07,special assignment,ATL Ops Sup 6,1
+2022-12-07,system issues,ATL Ops Sup 6,10
+2022-12-07,tc issues,ATL Ops Sup 5,17
+2022-12-07,tc issues,ATL Ops Sup 6,7
+2022-12-07,tc issues,ATL Ops Sup 7,12
+2022-12-08,acw,ATL Ops Sup 5,262
+2022-12-08,acw,ATL Ops Sup 6,295
+2022-12-08,acw,ATL Ops Sup 7,230
+2022-12-08,at a training session,ATL Ops Sup 5,1
+2022-12-08,at lunch,ATL Ops Sup 5,25
+2022-12-08,at lunch,ATL Ops Sup 6,21
+2022-12-08,at lunch,ATL Ops Sup 7,13
+2022-12-08,escalation wait,ATL Ops Sup 5,18
+2022-12-08,escalation wait,ATL Ops Sup 6,19
+2022-12-08,escalation wait,ATL Ops Sup 7,7
+2022-12-08,follow up,ATL Ops Sup 5,225
+2022-12-08,follow up,ATL Ops Sup 6,216
+2022-12-08,follow up,ATL Ops Sup 7,140
+2022-12-08,in a meeting,ATL Ops Sup 5,2
+2022-12-08,in a meeting,ATL Ops Sup 6,2
+2022-12-08,on call,ATL Ops Sup 5,297
+2022-12-08,on call,ATL Ops Sup 6,292
+2022-12-08,on call,ATL Ops Sup 7,226
+2022-12-08,personal break,ATL Ops Sup 5,10
+2022-12-08,personal break,ATL Ops Sup 6,7
+2022-12-08,personal break,ATL Ops Sup 7,12
+2022-12-08,scheduled break,ATL Ops Sup 5,39
+2022-12-08,scheduled break,ATL Ops Sup 6,38
+2022-12-08,scheduled break,ATL Ops Sup 7,29
+2022-12-08,special assignment,ATL Ops Sup 5,4
+2022-12-08,special assignment,ATL Ops Sup 6,2
+2022-12-08,tc issues,ATL Ops Sup 5,1
+2022-12-08,tc issues,ATL Ops Sup 6,26
+2022-12-08,tc issues,ATL Ops Sup 7,4
+2022-12-09,acw,ATL Ops Sup 5,229
+2022-12-09,acw,ATL Ops Sup 6,257
+2022-12-09,acw,ATL Ops Sup 7,318
+2022-12-09,at a training session,ATL Ops Sup 7,1
+2022-12-09,at lunch,ATL Ops Sup 5,17
+2022-12-09,at lunch,ATL Ops Sup 6,19
+2022-12-09,at lunch,ATL Ops Sup 7,17
+2022-12-09,coaching,ATL Ops Sup 6,1
+2022-12-09,escalation wait,ATL Ops Sup 5,17
+2022-12-09,escalation wait,ATL Ops Sup 6,22
+2022-12-09,escalation wait,ATL Ops Sup 7,21
+2022-12-09,follow up,ATL Ops Sup 5,163
+2022-12-09,follow up,ATL Ops Sup 6,186
+2022-12-09,follow up,ATL Ops Sup 7,259
+2022-12-09,in a meeting,ATL Ops Sup 5,2
+2022-12-09,in a meeting,ATL Ops Sup 7,2
+2022-12-09,on call,ATL Ops Sup 5,246
+2022-12-09,on call,ATL Ops Sup 6,260
+2022-12-09,on call,ATL Ops Sup 7,357
+2022-12-09,personal break,ATL Ops Sup 5,11
+2022-12-09,personal break,ATL Ops Sup 6,6
+2022-12-09,personal break,ATL Ops Sup 7,9
+2022-12-09,scheduled break,ATL Ops Sup 5,35
+2022-12-09,scheduled break,ATL Ops Sup 6,30
+2022-12-09,scheduled break,ATL Ops Sup 7,38
+2022-12-09,special assignment,ATL Ops Sup 5,4
+2022-12-09,special assignment,ATL Ops Sup 6,3
+2022-12-09,special assignment,ATL Ops Sup 7,4
+2022-12-09,system issues,ATL Ops Sup 6,1
+2022-12-09,system issues,ATL Ops Sup 7,2
+2022-12-09,tc issues,ATL Ops Sup 5,35
+2022-12-09,tc issues,ATL Ops Sup 6,13
+2022-12-09,tc issues,ATL Ops Sup 7,13
+2022-12-10,acw,ATL Ops Sup 5,72
+2022-12-10,acw,ATL Ops Sup 6,109
+2022-12-10,acw,ATL Ops Sup 7,75
+2022-12-10,at lunch,ATL Ops Sup 5,11
+2022-12-10,at lunch,ATL Ops Sup 6,9
+2022-12-10,at lunch,ATL Ops Sup 7,5
+2022-12-10,escalation wait,ATL Ops Sup 5,3
+2022-12-10,escalation wait,ATL Ops Sup 6,1
+2022-12-10,escalation wait,ATL Ops Sup 7,1
+2022-12-10,follow up,ATL Ops Sup 5,61
+2022-12-10,follow up,ATL Ops Sup 6,80
+2022-12-10,follow up,ATL Ops Sup 7,67
+2022-12-10,on call,ATL Ops Sup 5,80
+2022-12-10,on call,ATL Ops Sup 6,121
+2022-12-10,on call,ATL Ops Sup 7,75
+2022-12-10,personal break,ATL Ops Sup 5,1
+2022-12-10,personal break,ATL Ops Sup 6,2
+2022-12-10,personal break,ATL Ops Sup 7,5
+2022-12-10,scheduled break,ATL Ops Sup 5,15
+2022-12-10,scheduled break,ATL Ops Sup 6,19
+2022-12-10,scheduled break,ATL Ops Sup 7,11
+2022-12-10,special assignment,ATL Ops Sup 5,1
+2022-12-10,tc issues,ATL Ops Sup 5,1
+2022-12-10,tc issues,ATL Ops Sup 6,10
+2022-12-10,tc issues,ATL Ops Sup 7,4
+2022-12-11,acw,ATL Ops Sup 5,60
+2022-12-11,acw,ATL Ops Sup 6,32
+2022-12-11,acw,ATL Ops Sup 7,118
+2022-12-11,at lunch,ATL Ops Sup 5,15
+2022-12-11,at lunch,ATL Ops Sup 6,3
+2022-12-11,at lunch,ATL Ops Sup 7,8
+2022-12-11,escalation wait,ATL Ops Sup 5,3
+2022-12-11,escalation wait,ATL Ops Sup 6,2
+2022-12-11,escalation wait,ATL Ops Sup 7,2
+2022-12-11,follow up,ATL Ops Sup 5,67
+2022-12-11,follow up,ATL Ops Sup 6,45
+2022-12-11,follow up,ATL Ops Sup 7,64
+2022-12-11,on call,ATL Ops Sup 5,76
+2022-12-11,on call,ATL Ops Sup 6,45
+2022-12-11,on call,ATL Ops Sup 7,91
+2022-12-11,personal break,ATL Ops Sup 5,9
+2022-12-11,personal break,ATL Ops Sup 6,2
+2022-12-11,personal break,ATL Ops Sup 7,8
+2022-12-11,scheduled break,ATL Ops Sup 5,20
+2022-12-11,scheduled break,ATL Ops Sup 6,6
+2022-12-11,scheduled break,ATL Ops Sup 7,17
+2022-12-11,special assignment,ATL Ops Sup 5,3
+2022-12-11,tc issues,ATL Ops Sup 5,6
+2022-12-11,tc issues,ATL Ops Sup 7,4
+2022-12-12,acw,ATL Ops Sup 5,216
+2022-12-12,acw,ATL Ops Sup 6,272
+2022-12-12,acw,ATL Ops Sup 7,282
+2022-12-12,at lunch,ATL Ops Sup 5,14
+2022-12-12,at lunch,ATL Ops Sup 6,14
+2022-12-12,at lunch,ATL Ops Sup 7,15
+2022-12-12,coaching,ATL Ops Sup 5,1
+2022-12-12,escalation wait,ATL Ops Sup 5,25
+2022-12-12,escalation wait,ATL Ops Sup 6,18
+2022-12-12,escalation wait,ATL Ops Sup 7,7
+2022-12-12,follow up,ATL Ops Sup 5,167
+2022-12-12,follow up,ATL Ops Sup 6,207
+2022-12-12,follow up,ATL Ops Sup 7,185
+2022-12-12,in a meeting,ATL Ops Sup 7,1
+2022-12-12,on call,ATL Ops Sup 5,242
+2022-12-12,on call,ATL Ops Sup 6,288
+2022-12-12,on call,ATL Ops Sup 7,297
+2022-12-12,personal break,ATL Ops Sup 5,7
+2022-12-12,personal break,ATL Ops Sup 6,6
+2022-12-12,personal break,ATL Ops Sup 7,5
+2022-12-12,scheduled break,ATL Ops Sup 5,29
+2022-12-12,scheduled break,ATL Ops Sup 6,30
+2022-12-12,scheduled break,ATL Ops Sup 7,28
+2022-12-12,special assignment,ATL Ops Sup 5,1
+2022-12-12,special assignment,ATL Ops Sup 6,1
+2022-12-12,system issues,ATL Ops Sup 5,1
+2022-12-12,system issues,ATL Ops Sup 7,1
+2022-12-12,tc issues,ATL Ops Sup 5,19
+2022-12-12,tc issues,ATL Ops Sup 7,18
+2022-12-13,acw,ATL Ops Sup 5,198
+2022-12-13,acw,ATL Ops Sup 6,224
+2022-12-13,acw,ATL Ops Sup 7,341
+2022-12-13,at a training session,ATL Ops Sup 6,1
+2022-12-13,at lunch,ATL Ops Sup 5,15
+2022-12-13,at lunch,ATL Ops Sup 6,22
+2022-12-13,at lunch,ATL Ops Sup 7,15
+2022-12-13,escalation wait,ATL Ops Sup 5,16
+2022-12-13,escalation wait,ATL Ops Sup 6,19
+2022-12-13,escalation wait,ATL Ops Sup 7,14
+2022-12-13,follow up,ATL Ops Sup 5,174
+2022-12-13,follow up,ATL Ops Sup 6,150
+2022-12-13,follow up,ATL Ops Sup 7,241
+2022-12-13,in a meeting,ATL Ops Sup 6,1
+2022-12-13,in a meeting,ATL Ops Sup 7,5
+2022-12-13,on call,ATL Ops Sup 5,244
+2022-12-13,on call,ATL Ops Sup 6,231
+2022-12-13,on call,ATL Ops Sup 7,386
+2022-12-13,personal break,ATL Ops Sup 5,9
+2022-12-13,personal break,ATL Ops Sup 6,4
+2022-12-13,personal break,ATL Ops Sup 7,16
+2022-12-13,scheduled break,ATL Ops Sup 5,29
+2022-12-13,scheduled break,ATL Ops Sup 6,34
+2022-12-13,scheduled break,ATL Ops Sup 7,36
+2022-12-13,special assignment,ATL Ops Sup 5,3
+2022-12-13,special assignment,ATL Ops Sup 6,1
+2022-12-13,special assignment,ATL Ops Sup 7,4
+2022-12-13,system issues,ATL Ops Sup 5,1
+2022-12-13,system issues,ATL Ops Sup 7,1
+2022-12-13,tc issues,ATL Ops Sup 5,7
+2022-12-13,tc issues,ATL Ops Sup 6,7
+2022-12-13,tc issues,ATL Ops Sup 7,12
+2022-12-14,acw,ATL Ops Sup 5,262
+2022-12-14,acw,ATL Ops Sup 6,220
+2022-12-14,acw,ATL Ops Sup 7,211
+2022-12-14,at lunch,ATL Ops Sup 5,18
+2022-12-14,at lunch,ATL Ops Sup 6,17
+2022-12-14,at lunch,ATL Ops Sup 7,14
+2022-12-14,escalation wait,ATL Ops Sup 5,21
+2022-12-14,escalation wait,ATL Ops Sup 6,17
+2022-12-14,escalation wait,ATL Ops Sup 7,14
+2022-12-14,follow up,ATL Ops Sup 5,222
+2022-12-14,follow up,ATL Ops Sup 6,189
+2022-12-14,follow up,ATL Ops Sup 7,184
+2022-12-14,in a meeting,ATL Ops Sup 5,1
+2022-12-14,in a meeting,ATL Ops Sup 6,1
+2022-12-14,in a meeting,ATL Ops Sup 7,2
+2022-12-14,on call,ATL Ops Sup 5,289
+2022-12-14,on call,ATL Ops Sup 6,220
+2022-12-14,on call,ATL Ops Sup 7,238
+2022-12-14,personal break,ATL Ops Sup 5,13
+2022-12-14,personal break,ATL Ops Sup 6,3
+2022-12-14,personal break,ATL Ops Sup 7,4
+2022-12-14,scheduled break,ATL Ops Sup 5,41
+2022-12-14,scheduled break,ATL Ops Sup 6,27
+2022-12-14,scheduled break,ATL Ops Sup 7,26
+2022-12-14,special assignment,ATL Ops Sup 5,3
+2022-12-14,special assignment,ATL Ops Sup 6,1
+2022-12-14,system issues,ATL Ops Sup 5,1
+2022-12-14,tc issues,ATL Ops Sup 5,14
+2022-12-14,tc issues,ATL Ops Sup 6,16
+2022-12-14,tc issues,ATL Ops Sup 7,11
+2022-12-15,acw,ATL Ops Sup 5,262
+2022-12-15,acw,ATL Ops Sup 6,359
+2022-12-15,acw,ATL Ops Sup 7,280
+2022-12-15,at lunch,ATL Ops Sup 5,17
+2022-12-15,at lunch,ATL Ops Sup 6,18
+2022-12-15,at lunch,ATL Ops Sup 7,20
+2022-12-15,coaching,ATL Ops Sup 6,1
+2022-12-15,escalation wait,ATL Ops Sup 5,25
+2022-12-15,escalation wait,ATL Ops Sup 6,13
+2022-12-15,escalation wait,ATL Ops Sup 7,11
+2022-12-15,follow up,ATL Ops Sup 5,213
+2022-12-15,follow up,ATL Ops Sup 6,265
+2022-12-15,follow up,ATL Ops Sup 7,178
+2022-12-15,in a meeting,ATL Ops Sup 5,1
+2022-12-15,in a meeting,ATL Ops Sup 6,1
+2022-12-15,in a meeting,ATL Ops Sup 7,4
+2022-12-15,on call,ATL Ops Sup 5,295
+2022-12-15,on call,ATL Ops Sup 6,369
+2022-12-15,on call,ATL Ops Sup 7,281
+2022-12-15,personal break,ATL Ops Sup 5,16
+2022-12-15,personal break,ATL Ops Sup 6,7
+2022-12-15,personal break,ATL Ops Sup 7,11
+2022-12-15,scheduled break,ATL Ops Sup 5,33
+2022-12-15,scheduled break,ATL Ops Sup 6,39
+2022-12-15,scheduled break,ATL Ops Sup 7,32
+2022-12-15,special assignment,ATL Ops Sup 5,5
+2022-12-15,special assignment,ATL Ops Sup 6,2
+2022-12-15,tc issues,ATL Ops Sup 5,9
+2022-12-15,tc issues,ATL Ops Sup 6,10
+2022-12-15,tc issues,ATL Ops Sup 7,12
+2022-12-16,acw,ATL Ops Sup 5,202
+2022-12-16,acw,ATL Ops Sup 6,305
+2022-12-16,acw,ATL Ops Sup 7,340
+2022-12-16,at a training session,ATL Ops Sup 5,1
+2022-12-16,at a training session,ATL Ops Sup 6,1
+2022-12-16,at lunch,ATL Ops Sup 5,15
+2022-12-16,at lunch,ATL Ops Sup 6,16
+2022-12-16,at lunch,ATL Ops Sup 7,19
+2022-12-16,escalation wait,ATL Ops Sup 5,12
+2022-12-16,escalation wait,ATL Ops Sup 6,20
+2022-12-16,escalation wait,ATL Ops Sup 7,16
+2022-12-16,follow up,ATL Ops Sup 5,158
+2022-12-16,follow up,ATL Ops Sup 6,232
+2022-12-16,follow up,ATL Ops Sup 7,223
+2022-12-16,in a meeting,ATL Ops Sup 7,2
+2022-12-16,on call,ATL Ops Sup 5,230
+2022-12-16,on call,ATL Ops Sup 6,309
+2022-12-16,on call,ATL Ops Sup 7,331
+2022-12-16,personal break,ATL Ops Sup 5,9
+2022-12-16,personal break,ATL Ops Sup 6,6
+2022-12-16,personal break,ATL Ops Sup 7,11
+2022-12-16,scheduled break,ATL Ops Sup 5,30
+2022-12-16,scheduled break,ATL Ops Sup 6,34
+2022-12-16,scheduled break,ATL Ops Sup 7,41
+2022-12-16,special assignment,ATL Ops Sup 5,2
+2022-12-16,system issues,ATL Ops Sup 5,2
+2022-12-16,tc issues,ATL Ops Sup 5,10
+2022-12-16,tc issues,ATL Ops Sup 6,6
+2022-12-16,tc issues,ATL Ops Sup 7,16
+2022-12-17,acw,ATL Ops Sup 5,72
+2022-12-17,acw,ATL Ops Sup 6,121
+2022-12-17,acw,ATL Ops Sup 7,112
+2022-12-17,at lunch,ATL Ops Sup 5,11
+2022-12-17,at lunch,ATL Ops Sup 6,8
+2022-12-17,at lunch,ATL Ops Sup 7,7
+2022-12-17,escalation wait,ATL Ops Sup 5,5
+2022-12-17,escalation wait,ATL Ops Sup 6,4
+2022-12-17,escalation wait,ATL Ops Sup 7,5
+2022-12-17,follow up,ATL Ops Sup 5,76
+2022-12-17,follow up,ATL Ops Sup 6,90
+2022-12-17,follow up,ATL Ops Sup 7,81
+2022-12-17,in a meeting,ATL Ops Sup 6,1
+2022-12-17,on call,ATL Ops Sup 5,90
+2022-12-17,on call,ATL Ops Sup 6,131
+2022-12-17,on call,ATL Ops Sup 7,111
+2022-12-17,personal break,ATL Ops Sup 5,4
+2022-12-17,personal break,ATL Ops Sup 6,6
+2022-12-17,personal break,ATL Ops Sup 7,7
+2022-12-17,scheduled break,ATL Ops Sup 5,16
+2022-12-17,scheduled break,ATL Ops Sup 6,19
+2022-12-17,scheduled break,ATL Ops Sup 7,15
+2022-12-17,special assignment,ATL Ops Sup 6,2
+2022-12-17,tc issues,ATL Ops Sup 5,1
+2022-12-17,tc issues,ATL Ops Sup 6,13
+2022-12-18,acw,ATL Ops Sup 5,82
+2022-12-18,acw,ATL Ops Sup 6,61
+2022-12-18,acw,ATL Ops Sup 7,101
+2022-12-18,at lunch,ATL Ops Sup 5,5
+2022-12-18,at lunch,ATL Ops Sup 6,4
+2022-12-18,at lunch,ATL Ops Sup 7,8
+2022-12-18,escalation wait,ATL Ops Sup 5,4
+2022-12-18,escalation wait,ATL Ops Sup 6,3
+2022-12-18,escalation wait,ATL Ops Sup 7,4
+2022-12-18,follow up,ATL Ops Sup 5,79
+2022-12-18,follow up,ATL Ops Sup 6,50
+2022-12-18,follow up,ATL Ops Sup 7,54
+2022-12-18,in a meeting,ATL Ops Sup 6,1
+2022-12-18,on call,ATL Ops Sup 5,92
+2022-12-18,on call,ATL Ops Sup 6,65
+2022-12-18,on call,ATL Ops Sup 7,95
+2022-12-18,personal break,ATL Ops Sup 5,6
+2022-12-18,personal break,ATL Ops Sup 6,2
+2022-12-18,personal break,ATL Ops Sup 7,4
+2022-12-18,scheduled break,ATL Ops Sup 5,15
+2022-12-18,scheduled break,ATL Ops Sup 6,9
+2022-12-18,scheduled break,ATL Ops Sup 7,14
+2022-12-18,special assignment,ATL Ops Sup 7,3
+2022-12-18,tc issues,ATL Ops Sup 6,4
+2022-12-18,tc issues,ATL Ops Sup 7,4
+2022-12-19,acw,ATL Ops Sup 5,235
+2022-12-19,acw,ATL Ops Sup 6,283
+2022-12-19,acw,ATL Ops Sup 7,348
+2022-12-19,at a training session,ATL Ops Sup 5,1
+2022-12-19,at a training session,ATL Ops Sup 6,1
+2022-12-19,at lunch,ATL Ops Sup 5,19
+2022-12-19,at lunch,ATL Ops Sup 6,15
+2022-12-19,at lunch,ATL Ops Sup 7,20
+2022-12-19,escalation wait,ATL Ops Sup 5,15
+2022-12-19,escalation wait,ATL Ops Sup 6,23
+2022-12-19,escalation wait,ATL Ops Sup 7,15
+2022-12-19,follow up,ATL Ops Sup 5,167
+2022-12-19,follow up,ATL Ops Sup 6,198
+2022-12-19,follow up,ATL Ops Sup 7,242
+2022-12-19,in a meeting,ATL Ops Sup 7,3
+2022-12-19,on call,ATL Ops Sup 5,249
+2022-12-19,on call,ATL Ops Sup 6,286
+2022-12-19,on call,ATL Ops Sup 7,368
+2022-12-19,personal break,ATL Ops Sup 5,11
+2022-12-19,personal break,ATL Ops Sup 6,4
+2022-12-19,personal break,ATL Ops Sup 7,10
+2022-12-19,scheduled break,ATL Ops Sup 5,32
+2022-12-19,scheduled break,ATL Ops Sup 6,30
+2022-12-19,scheduled break,ATL Ops Sup 7,33
+2022-12-19,special assignment,ATL Ops Sup 6,1
+2022-12-19,system issues,ATL Ops Sup 7,1
+2022-12-19,tc issues,ATL Ops Sup 5,7
+2022-12-19,tc issues,ATL Ops Sup 6,15
+2022-12-19,tc issues,ATL Ops Sup 7,7
+2022-12-20,acw,ATL Ops Sup 5,217
+2022-12-20,acw,ATL Ops Sup 6,214
+2022-12-20,acw,ATL Ops Sup 7,279
+2022-12-20,at lunch,ATL Ops Sup 5,15
+2022-12-20,at lunch,ATL Ops Sup 6,14
+2022-12-20,at lunch,ATL Ops Sup 7,18
+2022-12-20,escalation wait,ATL Ops Sup 5,20
+2022-12-20,escalation wait,ATL Ops Sup 6,21
+2022-12-20,escalation wait,ATL Ops Sup 7,13
+2022-12-20,follow up,ATL Ops Sup 5,188
+2022-12-20,follow up,ATL Ops Sup 6,160
+2022-12-20,follow up,ATL Ops Sup 7,178
+2022-12-20,in a meeting,ATL Ops Sup 5,2
+2022-12-20,in a meeting,ATL Ops Sup 7,4
+2022-12-20,on call,ATL Ops Sup 5,247
+2022-12-20,on call,ATL Ops Sup 6,222
+2022-12-20,on call,ATL Ops Sup 7,283
+2022-12-20,personal break,ATL Ops Sup 5,13
+2022-12-20,personal break,ATL Ops Sup 6,6
+2022-12-20,personal break,ATL Ops Sup 7,11
+2022-12-20,scheduled break,ATL Ops Sup 5,30
+2022-12-20,scheduled break,ATL Ops Sup 6,27
+2022-12-20,scheduled break,ATL Ops Sup 7,27
+2022-12-20,special assignment,ATL Ops Sup 5,2
+2022-12-20,special assignment,ATL Ops Sup 6,1
+2022-12-20,system issues,ATL Ops Sup 5,5
+2022-12-20,system issues,ATL Ops Sup 7,5
+2022-12-20,tc issues,ATL Ops Sup 5,14
+2022-12-20,tc issues,ATL Ops Sup 6,4
+2022-12-20,tc issues,ATL Ops Sup 7,1

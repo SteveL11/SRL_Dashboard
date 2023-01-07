@@ -1,0 +1,62 @@
+UserId,StatusKey,StateDuration,LastName,FirstName_x,StatusDate,StatusTime,adh,Code,Date,Min,time
+,SHIFT,,,,,8:00,scheduled,,,,8:00
+,NETCLAIM 1 (D) - CS,,,,,8:00,scheduled,,,,8:05
+chbeach,on call,1279,Beach,Christina,12/15/2022 0:00,8:05:40,actual,ATL Ops Sup 6,12/15/2022,21.31666667,8:10
+chbeach,acw,15,Beach,Christina,12/15/2022 0:00,8:26:59,actual,ATL Ops Sup 6,12/15/2022,0.25,8:15
+chbeach,on call,279,Beach,Christina,12/15/2022 0:00,8:32:57,actual,ATL Ops Sup 6,12/15/2022,4.65,8:20
+chbeach,acw,66,Beach,Christina,12/15/2022 0:00,8:37:36,actual,ATL Ops Sup 6,12/15/2022,1.1,8:25
+chbeach,on call,981,Beach,Christina,12/15/2022 0:00,8:38:57,actual,ATL Ops Sup 6,12/15/2022,16.35,8:30
+chbeach,follow up,2,Beach,Christina,12/15/2022 0:00,8:55:18,actual,ATL Ops Sup 6,12/15/2022,0.033333333,8:35
+chbeach,acw,12,Beach,Christina,12/15/2022 0:00,8:55:20,actual,ATL Ops Sup 6,12/15/2022,0.2,8:40
+chbeach,scheduled break,647,Beach,Christina,12/15/2022 0:00,8:55:32,actual,ATL Ops Sup 6,12/15/2022,10.78333333,8:45
+,BREAK 1,,,,,9:00,scheduled,,,,8:50
+chbeach,on call,301,Beach,Christina,12/15/2022 0:00,9:06:30,actual,ATL Ops Sup 6,12/15/2022,5.016666667,8:55
+chbeach,acw,122,Beach,Christina,12/15/2022 0:00,9:11:31,actual,ATL Ops Sup 6,12/15/2022,2.033333333,9:00
+chbeach,on call,1200,Beach,Christina,12/15/2022 0:00,9:21:01,actual,ATL Ops Sup 6,12/15/2022,20,9:05
+chbeach,acw,37,Beach,Christina,12/15/2022 0:00,9:41:01,actual,ATL Ops Sup 6,12/15/2022,0.616666667,9:10
+chbeach,on call,112,Beach,Christina,12/15/2022 0:00,9:45:01,actual,ATL Ops Sup 6,12/15/2022,1.866666667,9:15
+chbeach,acw,80,Beach,Christina,12/15/2022 0:00,9:46:53,actual,ATL Ops Sup 6,12/15/2022,1.333333333,9:20
+chbeach,personal break,83,Beach,Christina,12/15/2022 0:00,9:48:13,actual,ATL Ops Sup 6,12/15/2022,1.383333333,9:25
+chbeach,on call,1414,Beach,Christina,12/15/2022 0:00,9:49:54,actual,ATL Ops Sup 6,12/15/2022,23.56666667,9:30
+,BREAK 2,,,,,10:00,scheduled,,,,9:35
+chbeach,acw,17,Beach,Christina,12/15/2022 0:00,10:13:28,actual,ATL Ops Sup 6,12/15/2022,0.283333333,9:40
+chbeach,scheduled break,661,Beach,Christina,12/15/2022 0:00,10:13:45,actual,ATL Ops Sup 6,12/15/2022,11.01666667,9:45
+chbeach,on call,1518,Beach,Christina,12/15/2022 0:00,10:24:47,actual,ATL Ops Sup 6,12/15/2022,25.3,9:50
+chbeach,acw,26,Beach,Christina,12/15/2022 0:00,10:50:05,actual,ATL Ops Sup 6,12/15/2022,0.433333333,9:55
+chbeach,on call,1318,Beach,Christina,12/15/2022 0:00,10:50:36,actual,ATL Ops Sup 6,12/15/2022,21.96666667,10:00
+chbeach,acw,45,Beach,Christina,12/15/2022 0:00,11:12:34,actual,ATL Ops Sup 6,12/15/2022,0.75,10:05
+chbeach,on call,3562,Beach,Christina,12/15/2022 0:00,11:13:21,actual,ATL Ops Sup 6,12/15/2022,59.36666667,10:10
+chbeach,acw,42,Beach,Christina,12/15/2022 0:00,12:12:43,actual,ATL Ops Sup 6,12/15/2022,0.7,10:15
+chbeach,on call,317,Beach,Christina,12/15/2022 0:00,12:13:26,actual,ATL Ops Sup 6,12/15/2022,5.283333333,10:20
+chbeach,acw,53,Beach,Christina,12/15/2022 0:00,12:18:43,actual,ATL Ops Sup 6,12/15/2022,0.883333333,10:25
+chbeach,on call,434,Beach,Christina,12/15/2022 0:00,12:19:38,actual,ATL Ops Sup 6,12/15/2022,7.233333333,10:30
+chbeach,acw,60,Beach,Christina,12/15/2022 0:00,12:26:52,actual,ATL Ops Sup 6,12/15/2022,1,10:35
+chbeach,at lunch,1849,Beach,Christina,12/15/2022 0:00,12:27:52,actual,ATL Ops Sup 6,12/15/2022,30.81666667,10:40
+,LUNCH,,,,,12:30,scheduled,,,,10:45
+chbeach,on call,916,Beach,Christina,12/15/2022 0:00,12:58:43,actual,ATL Ops Sup 6,12/15/2022,15.26666667,10:50
+chbeach,acw,49,Beach,Christina,12/15/2022 0:00,13:13:59,actual,ATL Ops Sup 6,12/15/2022,0.816666667,10:55
+chbeach,on call,851,Beach,Christina,12/15/2022 0:00,13:14:50,actual,ATL Ops Sup 6,12/15/2022,14.18333333,11:00
+chbeach,acw,35,Beach,Christina,12/15/2022 0:00,13:29:01,actual,ATL Ops Sup 6,12/15/2022,0.583333333,11:05
+chbeach,on call,226,Beach,Christina,12/15/2022 0:00,13:29:38,actual,ATL Ops Sup 6,12/15/2022,3.766666667,11:10
+chbeach,follow up,1,Beach,Christina,12/15/2022 0:00,13:33:24,actual,ATL Ops Sup 6,12/15/2022,0.016666667,11:15
+chbeach,acw,93,Beach,Christina,12/15/2022 0:00,13:33:25,actual,ATL Ops Sup 6,12/15/2022,1.55,11:20
+chbeach,on call,971,Beach,Christina,12/15/2022 0:00,13:34:59,actual,ATL Ops Sup 6,12/15/2022,16.18333333,11:25
+chbeach,acw,40,Beach,Christina,12/15/2022 0:00,13:51:10,actual,ATL Ops Sup 6,12/15/2022,0.666666667,11:30
+chbeach,on call,1052,Beach,Christina,12/15/2022 0:00,13:51:51,actual,ATL Ops Sup 6,12/15/2022,17.53333333,11:35
+chbeach,acw,40,Beach,Christina,12/15/2022 0:00,14:09:23,actual,ATL Ops Sup 6,12/15/2022,0.666666667,11:40
+chbeach,on call,480,Beach,Christina,12/15/2022 0:00,14:10:04,actual,ATL Ops Sup 6,12/15/2022,8,11:45
+chbeach,acw,41,Beach,Christina,12/15/2022 0:00,14:18:04,actual,ATL Ops Sup 6,12/15/2022,0.683333333,11:50
+chbeach,on call,1330,Beach,Christina,12/15/2022 0:00,14:18:47,actual,ATL Ops Sup 6,12/15/2022,22.16666667,11:55
+chbeach,acw,19,Beach,Christina,12/15/2022 0:00,14:40:57,actual,ATL Ops Sup 6,12/15/2022,0.316666667,12:00
+chbeach,on call,2309,Beach,Christina,12/15/2022 0:00,14:41:17,actual,ATL Ops Sup 6,12/15/2022,38.48333333,12:05
+,BREAK 3,,,,,15:15,scheduled,,,,12:10
+chbeach,acw,41,Beach,Christina,12/15/2022 0:00,15:19:46,actual,ATL Ops Sup 6,12/15/2022,0.683333333,12:15
+chbeach,scheduled break,646,Beach,Christina,12/15/2022 0:00,15:20:27,actual,ATL Ops Sup 6,12/15/2022,10.76666667,12:20
+chbeach,on call,1523,Beach,Christina,12/15/2022 0:00,15:31:14,actual,ATL Ops Sup 6,12/15/2022,25.38333333,12:25
+chbeach,acw,51,Beach,Christina,12/15/2022 0:00,15:56:37,actual,ATL Ops Sup 6,12/15/2022,0.85,12:30
+chbeach,follow up,0,Beach,Christina,12/15/2022 0:00,15:56:37,actual,ATL Ops Sup 6,12/15/2022,0,12:35
+chbeach,on call,560,Beach,Christina,12/15/2022 0:00,15:57:29,actual,ATL Ops Sup 6,12/15/2022,9.333333333,12:40
+chbeach,acw,25,Beach,Christina,12/15/2022 0:00,16:06:49,actual,ATL Ops Sup 6,12/15/2022,0.416666667,12:45
+chbeach,on call,1585,Beach,Christina,12/15/2022 0:00,16:07:15,actual,ATL Ops Sup 6,12/15/2022,26.41666667,12:50
+,End of Shift Wrap-up,,,,,16:25,scheduled,,,,12:55
+chbeach,acw,97,Beach,Christina,12/15/2022 0:00,16:33:40,actual,ATL Ops Sup 6,12/15/2022,1.616666667,13:00

@@ -1,0 +1,68 @@
+First Name,Last Name,ID,Code,Nominal Date,Day of Week,Start,Start Time of Day,Stop,Stop Time of Day,Duration,Memo
+Alva,Miller,    BZE140,UNPAID VTO,4/12/2022,Tuesday, 5:36 PM, 5:36 PM, 5:45 PM, 5:45 PM, 0:09,MDM
+Grayson,Cadle,    BZE200,UNPAID VTO,4/12/2022,Tuesday, 5:50 PM, 5:50 PM, 7:00 PM, 7:00 PM, 1:10,MDM
+John,McCullough,    BZE139,UNPAID VTO,4/12/2022,Tuesday, 5:41 PM, 5:41 PM, 6:45 PM, 6:45 PM, 1:04,MDM
+Kimberly,Casimiro,     BZE49,UNPAID VTO,4/12/2022,Tuesday, 4:57 PM, 4:57 PM, 6:30 PM, 6:30 PM, 1:33,MDM
+Shen-Nay,Smith,    BZE145,UNPAID VTO,4/12/2022,Tuesday, 5:23 PM, 5:23 PM, 5:45 PM, 5:45 PM, 0:22,MDM
+Harry,Rothstein,    003282,PAID VTO,4/12/2022,Tuesday, 4:16 PM, 4:16 PM, 4:45 PM, 4:45 PM, 0:29,Approved paid early out. No points applied - MDM
+Ruth,Dowd,    002338,PAID VTO,4/12/2022,Tuesday, 5:00 PM, 5:00 PM, 5:30 PM, 5:30 PM, 0:30,Approved paid early out. No points applied - MDM
+Tymeshia,Oliver,    003699,UNPAID VTO,4/12/2022,Tuesday, 8:18 PM, 8:18 PM, 9:00 PM, 9:00 PM, 0:42,Approved unpaid early out. No points applied - MDM
+Meena,Rajpara,    008042,PAID VTO,4/12/2022,Tuesday, 8:26 PM, 8:26 PM, 9:00 PM, 9:00 PM, 0:34,Approved paid early out. No points applied - MDM
+Carla,Robinson,    004023,PAID VTO,4/12/2022,Tuesday, 8:37 PM, 8:37 PM, 9:15 PM, 9:15 PM, 0:38,Approved paid early out. No points applied - MDM
+Shanna,Jones,    BZE111,UNPAID VTO,4/13/2022,Wednesday, 3:45 PM, 3:45 PM, 4:45 PM, 4:45 PM, 1:00,MDM
+Jael,Spencer,    BZE194,UNPAID VTO,4/13/2022,Wednesday, 3:53 PM, 3:53 PM, 4:15 PM, 4:15 PM, 0:22,MDM
+Carolyn,Hoover,    008143,PAID VTO,4/13/2022,Wednesday, 9:30 PM, 9:30 PM,10:30 PM,10:30 PM, 1:00,Approved paid early out. No points applied - MDM
+David,Meadows,    002588,PAID VTO,4/13/2022,Wednesday,10:23 PM,10:23 PM,11:00 PM,11:00 PM, 0:37,Approved paid early out. No points applied - MDM
+Aleisha,Armstrong,    BZE158,UNPAID VTO,4/14/2022,Thursday, 5:33 PM, 5:33 PM, 6:00 PM, 6:00 PM, 0:27,MDM
+Alva,Miller,    BZE140,UNPAID VTO,4/14/2022,Thursday, 4:47 PM, 4:47 PM, 5:45 PM, 5:45 PM, 0:58,MDM
+Brenda,Alvarez,    BZE163,UNPAID VTO,4/14/2022,Thursday, 5:39 PM, 5:39 PM, 6:00 PM, 6:00 PM, 0:21,MDM
+Kimberly,Casimiro,     BZE49,UNPAID VTO,4/14/2022,Thursday, 5:40 PM, 5:40 PM, 6:30 PM, 6:30 PM, 0:50,MDM
+Ankit,Lamb,    BZE116,UNPAID VTO,4/15/2022,Friday, 4:19 PM, 4:19 PM, 6:30 PM, 6:30 PM, 2:11,MDM
+Alva,Miller,    BZE140,UNPAID VTO,4/15/2022,Friday, 3:40 PM, 3:40 PM, 5:45 PM, 5:45 PM, 2:05,MDM
+Ephraim,Sedacy,    BZE207,UNPAID VTO,4/15/2022,Friday, 4:34 PM, 4:34 PM, 6:00 PM, 6:00 PM, 1:26,MDM
+Larshell,Wade,    BZE184,UNPAID VTO,4/15/2022,Friday, 4:21 PM, 4:21 PM, 4:30 PM, 4:30 PM, 0:09,MDM
+Osny,Tobar,    BZE224,UNPAID VTO,4/15/2022,Friday, 6:08 PM, 6:08 PM, 6:45 PM, 6:45 PM, 0:37,MDM
+Rolanda,Ferguson,    BZE197,UNPAID VTO,4/15/2022,Friday, 5:36 PM, 5:36 PM, 6:45 PM, 6:45 PM, 1:09,MDM
+Shen-Nay,Smith,    BZE145,UNPAID VTO,4/15/2022,Friday, 4:47 PM, 4:47 PM, 5:45 PM, 5:45 PM, 0:58,MDM
+Denise,Bostick,    008011,PAID VTO,4/15/2022,Friday,11:08 PM,11:08 PM,12:00 AM,12:00 AM, 0:52,Approved paid early out. No points applied - MDM
+Latisha,McCollum,    002786,UNPAID VTO,4/15/2022,Friday, 4:36 PM, 4:36 PM, 5:15 PM, 5:15 PM, 0:39,Approved unpaid early out. No points applied - MDM
+April,Ledbetter,    010079,UNPAID VTO,4/15/2022,Friday, 4:26 PM, 4:26 PM, 5:00 PM, 5:00 PM, 0:34,Approved unpaid early out. No points applied - MDM
+Ebone,Howe,    010396,UNPAID VTO,4/16/2022,Saturday, 3:45 PM, 3:45 PM, 5:45 PM, 5:45 PM, 2:00,approved VTO --JDM
+Meena,Rajpara,    008042,PAID VTO,4/19/2022,Tuesday, 4:30 PM, 4:30 PM, 5:00 PM, 5:00 PM, 0:30,Approved paid time. No points applied - MDM
+Resha,Rubio,     BZE75,UNPAID VTO,4/19/2022,Tuesday, 4:57 PM, 4:57 PM, 7:30 PM, 7:30 PM, 2:33,MDM
+Shen-Nay,Smith,    BZE145,UNPAID VTO,4/19/2022,Tuesday, 4:36 PM, 4:36 PM, 5:45 PM, 5:45 PM, 1:09,MDM
+Shanice,Williams,    BZE171,UNPAID VTO,4/19/2022,Tuesday, 4:31 PM, 4:31 PM, 6:00 PM, 6:00 PM, 1:29,MDM
+Grayson,Cadle,    BZE200,UNPAID VTO,4/19/2022,Tuesday, 4:32 PM, 4:32 PM, 7:00 PM, 7:00 PM, 2:28,MDM
+Brenda,Alvarez,    BZE163,UNPAID VTO,4/19/2022,Tuesday, 4:46 PM, 4:46 PM, 6:00 PM, 6:00 PM, 1:14,MDM
+Edith,Durojaiye,    003091,PAID VTO,4/19/2022,Tuesday, 4:25 PM, 4:25 PM, 5:15 PM, 5:15 PM, 0:50,Approved paid early out. No points applied - MDM
+Harry,Rothstein,    003282,UNPAID VTO,4/19/2022,Tuesday, 4:03 PM, 4:03 PM, 4:45 PM, 4:45 PM, 0:42,Approved unpaid early out. No points applied - MDM
+Louise,Christopher,    008097,PAID VTO,4/19/2022,Tuesday, 3:57 PM, 3:57 PM, 4:30 PM, 4:30 PM, 0:33,Approved paid early out. No points applied. CS requested to use Floating Hours - MDM
+Keauan,Avilez,    BZE182,UNPAID VTO,4/19/2022,Tuesday, 1:11 PM, 1:11 PM, 9:30 PM, 9:30 PM, 8:19,CVC
+Rigel,Navarro,    BZE203,UNPAID VTO,4/19/2022,Tuesday,12:41 PM,12:41 PM, 4:00 PM, 4:00 PM, 3:19,CVC
+Alva,Miller,    BZE140,UNPAID VTO,4/20/2022,Wednesday, 4:17 PM, 4:17 PM, 5:45 PM, 5:45 PM, 1:28,MDM
+Melissa,Williams,     BZE53,UNPAID VTO,4/20/2022,Wednesday, 5:48 PM, 5:48 PM, 8:00 PM, 8:00 PM, 2:12,MDM
+Keauan,Avilez,    BZE182,UNPAID VTO,4/20/2022,Wednesday, 6:06 PM, 6:06 PM, 9:30 PM, 9:30 PM, 3:24,MDM
+Denese,Ogaldez,    BZE141,UNPAID VTO,4/20/2022,Wednesday, 6:16 PM, 6:16 PM, 8:00 PM, 8:00 PM, 1:44,MDM
+Stacey,Reynolds,    BZE190,UNPAID VTO,4/20/2022,Wednesday, 6:00 PM, 6:00 PM, 7:30 PM, 7:30 PM, 1:30,MDM
+Christina,Madrill,     BZE74,UNPAID VTO,4/20/2022,Wednesday, 6:24 PM, 6:24 PM, 8:00 PM, 8:00 PM, 1:36,MDM
+Khadijah,Reynolds,    BZE231,UNPAID VTO,4/20/2022,Wednesday, 4:47 PM, 4:47 PM, 7:30 PM, 7:30 PM, 2:43,MDM
+Matthew,Hudson,    010151,UNPAID VTO,4/20/2022,Wednesday,11:12 PM,11:12 PM,11:30 PM,11:30 PM, 0:18,MDM
+Alexandra,Charles,    010416,UNPAID VTO,4/22/2022,Friday,,,,,,Personal emergency   
+Monique,Collins,    010075,PAID VTO,4/26/2022,Tuesday, 4:58 PM, 4:58 PM, 6:30 PM, 6:30 PM, 1:32,MDM
+Aleisha,Armstrong,    BZE158,UNPAID VTO,4/26/2022,Tuesday, 5:13 PM, 5:13 PM, 6:00 PM, 6:00 PM, 0:47,MDM
+Ephraim,Sedacy,    BZE207,UNPAID VTO,4/26/2022,Tuesday, 5:10 PM, 5:10 PM, 6:00 PM, 6:00 PM, 0:50,MDM
+Kimberly,Casimiro,     BZE49,UNPAID VTO,4/26/2022,Tuesday, 5:06 PM, 5:06 PM, 6:30 PM, 6:30 PM, 1:24,MDM
+Sherrie,Humes,    BZE168,UNPAID VTO,4/26/2022,Tuesday, 5:06 PM, 5:06 PM, 6:30 PM, 6:30 PM, 1:24,MDM
+Meena,Rajpara,    008042,PAID VTO,4/26/2022,Tuesday, 8:39 PM, 8:39 PM, 9:00 PM, 9:00 PM, 0:21,MDM
+Tymeshia,Oliver,    003699,UNPAID VTO,4/26/2022,Tuesday, 8:40 PM, 8:40 PM, 9:00 PM, 9:00 PM, 0:20,MDM
+Carla,Robinson,    004023,PAID VTO,4/26/2022,Tuesday, 8:43 PM, 8:43 PM, 9:15 PM, 9:15 PM, 0:32,MDM
+Christina,Madrill,     BZE74,UNPAID VTO,4/26/2022,Tuesday, 7:15 PM, 7:15 PM, 8:00 PM, 8:00 PM, 0:45,MDM
+Dana,King,    BZE137,UNPAID VTO,4/26/2022,Tuesday, 9:34 PM, 9:34 PM,10:00 PM,10:00 PM, 0:26,MDM
+Denese,Ogaldez,    BZE141,UNPAID VTO,4/26/2022,Tuesday, 6:03 PM, 6:03 PM, 8:00 PM, 8:00 PM, 1:57,MDM
+Grayson,Cadle,    BZE200,UNPAID VTO,4/26/2022,Tuesday, 6:00 PM, 6:00 PM, 7:00 PM, 7:00 PM, 1:00,MDM
+Gizzel,Hill,    BZE217,UNPAID VTO,4/26/2022,Tuesday, 6:03 PM, 6:03 PM, 7:30 PM, 7:30 PM, 1:27,MDM
+Osny,Tobar,    BZE224,UNPAID VTO,4/26/2022,Tuesday, 6:24 PM, 6:24 PM, 6:45 PM, 6:45 PM, 0:21,MDM
+Resha,Rubio,     BZE75,UNPAID VTO,4/26/2022,Tuesday, 6:06 PM, 6:06 PM, 7:30 PM, 7:30 PM, 1:24,MDM
+Deborah,Lacativa,    008102,UNPAID VTO,4/26/2022,Tuesday,10:04 PM,10:04 PM,11:00 PM,11:00 PM, 0:56,MDM
+Mineesha,Thomas,    BZE214,UNPAID VTO,4/26/2022,Tuesday,10:04 PM,10:04 PM,10:30 PM,10:30 PM, 0:26,MDM
+Carrie,Peeples,    002931,UNPAID VTO,4/26/2022,Tuesday,11:22 PM,11:22 PM,12:00 AM,12:00 AM, 0:38,MDM
